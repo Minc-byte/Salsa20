@@ -1,0 +1,7684 @@
+{
+  "results": [
+    {
+      "abs_correlation": 0.16796875,
+      "approx_95ci_high": 0.6266793266204352,
+      "approx_95ci_low": 0.5412894233795648,
+      "bias": 0.083984375,
+      "correlation": 0.16796875,
+      "feedforward": false,
+      "input_difference": "w04.b00",
+      "input_difference_bits": [
+        [
+          4,
+          0
+        ]
+      ],
+      "matches": 299,
+      "output_mask": "w08.b13+w12.b13",
+      "output_mask_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "probability": 0.583984375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.021783138581854725
+    },
+    {
+      "abs_correlation": 0.12890625,
+      "approx_95ci_high": 0.4784958182721153,
+      "approx_95ci_low": 0.3925979317278847,
+      "bias": -0.064453125,
+      "correlation": -0.12890625,
+      "feedforward": false,
+      "input_difference": "w08.b13+w12.b13",
+      "input_difference_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 223,
+      "output_mask": "w05.b09+w10.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "probability": 0.435546875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.021912726159242488
+    },
+    {
+      "abs_correlation": 0.11328125,
+      "approx_95ci_high": 0.5996721253398187,
+      "approx_95ci_low": 0.5136091246601813,
+      "bias": 0.056640625,
+      "correlation": 0.11328125,
+      "feedforward": false,
+      "input_difference": "w00.b00+w01.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 285,
+      "output_mask": "w15.b18",
+      "output_mask_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "probability": 0.556640625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.021954847112152412
+    },
+    {
+      "abs_correlation": 0.10546875,
+      "approx_95ci_high": 0.4903343573048054,
+      "approx_95ci_low": 0.4041968926951946,
+      "bias": -0.052734375,
+      "correlation": -0.10546875,
+      "feedforward": false,
+      "input_difference": "w12.b13",
+      "input_difference_bits": [
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 229,
+      "output_mask": "w10.b13",
+      "output_mask_bits": [
+        [
+          10,
+          13
+        ]
+      ],
+      "probability": 0.447265625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02197384301265581
+    },
+    {
+      "abs_correlation": 0.1015625,
+      "approx_95ci_high": 0.5938675897878645,
+      "approx_95ci_low": 0.5076949102121355,
+      "bias": 0.05078125,
+      "correlation": 0.1015625,
+      "feedforward": false,
+      "input_difference": "w00.b07+w04.b07",
+      "input_difference_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "matches": 282,
+      "output_mask": "w00.b07+w04.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "probability": 0.55078125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.0219828264223798
+    },
+    {
+      "abs_correlation": 0.1015625,
+      "approx_95ci_high": 0.5938675897878645,
+      "approx_95ci_low": 0.5076949102121355,
+      "bias": 0.05078125,
+      "correlation": 0.1015625,
+      "feedforward": false,
+      "input_difference": "w09.b28",
+      "input_difference_bits": [
+        [
+          9,
+          28
+        ]
+      ],
+      "matches": 282,
+      "output_mask": "w05.b09+w10.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "probability": 0.55078125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.0219828264223798
+    },
+    {
+      "abs_correlation": 0.09765625,
+      "approx_95ci_high": 0.5919314010470337,
+      "approx_95ci_low": 0.5057248489529663,
+      "bias": 0.048828125,
+      "correlation": 0.09765625,
+      "feedforward": false,
+      "input_difference": "w00.b00+w01.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 281,
+      "output_mask": "w13.b00",
+      "output_mask_bits": [
+        [
+          13,
+          0
+        ]
+      ],
+      "probability": 0.548828125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.021991467370935543
+    },
+    {
+      "abs_correlation": 0.09765625,
+      "approx_95ci_high": 0.4942751510470337,
+      "approx_95ci_low": 0.4080685989529663,
+      "bias": -0.048828125,
+      "correlation": -0.09765625,
+      "feedforward": false,
+      "input_difference": "w00.b07+w04.b07",
+      "input_difference_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "matches": 231,
+      "output_mask": "w12.b23",
+      "output_mask_bits": [
+        [
+          12,
+          23
+        ]
+      ],
+      "probability": 0.451171875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.021991467370935543
+    },
+    {
+      "abs_correlation": 0.09375,
+      "approx_95ci_high": 0.5899945418732322,
+      "approx_95ci_low": 0.5037554581267678,
+      "bias": 0.046875,
+      "correlation": 0.09375,
+      "feedforward": false,
+      "input_difference": "w00.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "matches": 280,
+      "output_mask": "w00.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "probability": 0.546875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.021999766261853144
+    },
+    {
+      "abs_correlation": 0.09375,
+      "approx_95ci_high": 0.5899945418732322,
+      "approx_95ci_low": 0.5037554581267678,
+      "bias": 0.046875,
+      "correlation": 0.09375,
+      "feedforward": false,
+      "input_difference": "w01.b00",
+      "input_difference_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 280,
+      "output_mask": "w00.b07+w04.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "probability": 0.546875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.021999766261853144
+    },
+    {
+      "abs_correlation": 0.09375,
+      "approx_95ci_high": 0.5899945418732322,
+      "approx_95ci_low": 0.5037554581267678,
+      "bias": 0.046875,
+      "correlation": 0.09375,
+      "feedforward": false,
+      "input_difference": "w12.b13",
+      "input_difference_bits": [
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 280,
+      "output_mask": "w13.b00",
+      "output_mask_bits": [
+        [
+          13,
+          0
+        ]
+      ],
+      "probability": 0.546875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.021999766261853144
+    },
+    {
+      "abs_correlation": 0.08984375,
+      "approx_95ci_high": 0.4982132630249005,
+      "approx_95ci_low": 0.4119429869750995,
+      "bias": -0.044921875,
+      "correlation": -0.08984375,
+      "feedforward": false,
+      "input_difference": "w04.b00",
+      "input_difference_bits": [
+        [
+          4,
+          0
+        ]
+      ],
+      "matches": 233,
+      "output_mask": "w00.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "probability": 0.455078125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022007723482092085
+    },
+    {
+      "abs_correlation": 0.08203125,
+      "approx_95ci_high": 0.5021486991770826,
+      "approx_95ci_low": 0.4158200508229174,
+      "bias": -0.041015625,
+      "correlation": -0.08203125,
+      "feedforward": false,
+      "input_difference": "w00.b07+w04.b07",
+      "input_difference_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "matches": 235,
+      "output_mask": "w10.b13",
+      "output_mask_bits": [
+        [
+          10,
+          13
+        ]
+      ],
+      "probability": 0.458984375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02202261437606254
+    },
+    {
+      "abs_correlation": 0.08203125,
+      "approx_95ci_high": 0.5021486991770826,
+      "approx_95ci_low": 0.4158200508229174,
+      "bias": -0.041015625,
+      "correlation": -0.08203125,
+      "feedforward": false,
+      "input_difference": "w08.b13+w12.b13",
+      "input_difference_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 235,
+      "output_mask": "w08.b13+w12.b13",
+      "output_mask_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "probability": 0.458984375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02202261437606254
+    },
+    {
+      "abs_correlation": 0.08203125,
+      "approx_95ci_high": 0.5841799491770826,
+      "approx_95ci_low": 0.4978513008229174,
+      "bias": 0.041015625,
+      "correlation": 0.08203125,
+      "feedforward": false,
+      "input_difference": "w15.b28",
+      "input_difference_bits": [
+        [
+          15,
+          28
+        ]
+      ],
+      "matches": 277,
+      "output_mask": "w00.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "probability": 0.541015625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02202261437606254
+    },
+    {
+      "abs_correlation": 0.078125,
+      "approx_95ci_high": 0.5041154155336561,
+      "approx_95ci_low": 0.41775958446634387,
+      "bias": -0.0390625,
+      "correlation": -0.078125,
+      "feedforward": false,
+      "input_difference": "w00.b00+w01.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 236,
+      "output_mask": "w01.b00",
+      "output_mask_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.4609375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022029548741661287
+    },
+    {
+      "abs_correlation": 0.078125,
+      "approx_95ci_high": 0.5041154155336561,
+      "approx_95ci_low": 0.41775958446634387,
+      "bias": -0.0390625,
+      "correlation": -0.078125,
+      "feedforward": false,
+      "input_difference": "w08.b09",
+      "input_difference_bits": [
+        [
+          8,
+          9
+        ]
+      ],
+      "matches": 236,
+      "output_mask": "w13.b00",
+      "output_mask_bits": [
+        [
+          13,
+          0
+        ]
+      ],
+      "probability": 0.4609375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022029548741661287
+    },
+    {
+      "abs_correlation": 0.078125,
+      "approx_95ci_high": 0.5822404155336561,
+      "approx_95ci_low": 0.49588458446634387,
+      "bias": 0.0390625,
+      "correlation": 0.078125,
+      "feedforward": false,
+      "input_difference": "w09.b03",
+      "input_difference_bits": [
+        [
+          9,
+          3
+        ]
+      ],
+      "matches": 276,
+      "output_mask": "w00.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "probability": 0.5390625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022029548741661287
+    },
+    {
+      "abs_correlation": 0.078125,
+      "approx_95ci_high": 0.5822404155336561,
+      "approx_95ci_low": 0.49588458446634387,
+      "bias": 0.0390625,
+      "correlation": 0.078125,
+      "feedforward": false,
+      "input_difference": "w15.b28",
+      "input_difference_bits": [
+        [
+          15,
+          28
+        ]
+      ],
+      "matches": 276,
+      "output_mask": "w03.b29",
+      "output_mask_bits": [
+        [
+          3,
+          29
+        ]
+      ],
+      "probability": 0.5390625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022029548741661287
+    },
+    {
+      "abs_correlation": 0.0703125,
+      "approx_95ci_high": 0.5080468479590995,
+      "approx_95ci_low": 0.42164065204090045,
+      "bias": -0.03515625,
+      "correlation": -0.0703125,
+      "feedforward": false,
+      "input_difference": "w00.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "matches": 238,
+      "output_mask": "w00.b00+w01.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.46484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022042396917907922
+    },
+    {
+      "abs_correlation": 0.0703125,
+      "approx_95ci_high": 0.5783593479590995,
+      "approx_95ci_low": 0.49195315204090045,
+      "bias": 0.03515625,
+      "correlation": 0.0703125,
+      "feedforward": false,
+      "input_difference": "w00.b07+w04.b07",
+      "input_difference_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "matches": 274,
+      "output_mask": "w00.b00+w01.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.53515625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022042396917907922
+    },
+    {
+      "abs_correlation": 0.0703125,
+      "approx_95ci_high": 0.5080468479590995,
+      "approx_95ci_low": 0.42164065204090045,
+      "bias": -0.03515625,
+      "correlation": -0.0703125,
+      "feedforward": false,
+      "input_difference": "w06.b24",
+      "input_difference_bits": [
+        [
+          6,
+          24
+        ]
+      ],
+      "matches": 238,
+      "output_mask": "w00.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ]
+      ],
+      "probability": 0.46484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022042396917907922
+    },
+    {
+      "abs_correlation": 0.0703125,
+      "approx_95ci_high": 0.5080468479590995,
+      "approx_95ci_low": 0.42164065204090045,
+      "bias": -0.03515625,
+      "correlation": -0.0703125,
+      "feedforward": false,
+      "input_difference": "w06.b24",
+      "input_difference_bits": [
+        [
+          6,
+          24
+        ]
+      ],
+      "matches": 238,
+      "output_mask": "w07.b23",
+      "output_mask_bits": [
+        [
+          7,
+          23
+        ]
+      ],
+      "probability": 0.46484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022042396917907922
+    },
+    {
+      "abs_correlation": 0.0703125,
+      "approx_95ci_high": 0.5783593479590995,
+      "approx_95ci_low": 0.49195315204090045,
+      "bias": 0.03515625,
+      "correlation": 0.0703125,
+      "feedforward": false,
+      "input_difference": "w12.b13",
+      "input_difference_bits": [
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 274,
+      "output_mask": "w12.b23",
+      "output_mask_bits": [
+        [
+          12,
+          23
+        ]
+      ],
+      "probability": 0.53515625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022042396917907922
+    },
+    {
+      "abs_correlation": 0.0703125,
+      "approx_95ci_high": 0.5080468479590995,
+      "approx_95ci_low": 0.42164065204090045,
+      "bias": -0.03515625,
+      "correlation": -0.0703125,
+      "feedforward": false,
+      "input_difference": "w15.b18",
+      "input_difference_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "matches": 238,
+      "output_mask": "w13.b00",
+      "output_mask_bits": [
+        [
+          13,
+          0
+        ]
+      ],
+      "probability": 0.46484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022042396917907922
+    },
+    {
+      "abs_correlation": 0.06640625,
+      "approx_95ci_high": 0.5764178151935938,
+      "approx_95ci_low": 0.48998843480640625,
+      "bias": 0.033203125,
+      "correlation": 0.06640625,
+      "feedforward": false,
+      "input_difference": "w00.b00+w01.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 273,
+      "output_mask": "w05.b09+w10.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "probability": 0.533203125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02204831132326213
+    },
+    {
+      "abs_correlation": 0.06640625,
+      "approx_95ci_high": 0.5764178151935938,
+      "approx_95ci_low": 0.48998843480640625,
+      "bias": 0.033203125,
+      "correlation": 0.06640625,
+      "feedforward": false,
+      "input_difference": "w01.b00",
+      "input_difference_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 273,
+      "output_mask": "w15.b18",
+      "output_mask_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "probability": 0.533203125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02204831132326213
+    },
+    {
+      "abs_correlation": 0.06640625,
+      "approx_95ci_high": 0.5100115651935938,
+      "approx_95ci_low": 0.42358218480640625,
+      "bias": -0.033203125,
+      "correlation": -0.06640625,
+      "feedforward": false,
+      "input_difference": "w01.b25",
+      "input_difference_bits": [
+        [
+          1,
+          25
+        ]
+      ],
+      "matches": 239,
+      "output_mask": "w05.b09+w10.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "probability": 0.466796875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02204831132326213
+    },
+    {
+      "abs_correlation": 0.06640625,
+      "approx_95ci_high": 0.5764178151935938,
+      "approx_95ci_low": 0.48998843480640625,
+      "bias": 0.033203125,
+      "correlation": 0.06640625,
+      "feedforward": false,
+      "input_difference": "w15.b28",
+      "input_difference_bits": [
+        [
+          15,
+          28
+        ]
+      ],
+      "matches": 273,
+      "output_mask": "w05.b09+w10.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "probability": 0.533203125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02204831132326213
+    },
+    {
+      "abs_correlation": 0.0625,
+      "approx_95ci_high": 0.5119756171672792,
+      "approx_95ci_low": 0.42552438283272076,
+      "bias": -0.03125,
+      "correlation": -0.0625,
+      "feedforward": false,
+      "input_difference": "w01.b25",
+      "input_difference_bits": [
+        [
+          1,
+          25
+        ]
+      ],
+      "matches": 240,
+      "output_mask": "w13.b19",
+      "output_mask_bits": [
+        [
+          13,
+          19
+        ]
+      ],
+      "probability": 0.46875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022053886309836356
+    },
+    {
+      "abs_correlation": 0.0625,
+      "approx_95ci_high": 0.5119756171672792,
+      "approx_95ci_low": 0.42552438283272076,
+      "bias": -0.03125,
+      "correlation": -0.0625,
+      "feedforward": false,
+      "input_difference": "w04.b00",
+      "input_difference_bits": [
+        [
+          4,
+          0
+        ]
+      ],
+      "matches": 240,
+      "output_mask": "w05.b09+w10.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "probability": 0.46875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022053886309836356
+    },
+    {
+      "abs_correlation": 0.0625,
+      "approx_95ci_high": 0.5744756171672792,
+      "approx_95ci_low": 0.48802438283272076,
+      "bias": 0.03125,
+      "correlation": 0.0625,
+      "feedforward": false,
+      "input_difference": "w09.b28",
+      "input_difference_bits": [
+        [
+          9,
+          28
+        ]
+      ],
+      "matches": 272,
+      "output_mask": "w00.b00+w01.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.53125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022053886309836356
+    },
+    {
+      "abs_correlation": 0.0625,
+      "approx_95ci_high": 0.5119756171672792,
+      "approx_95ci_low": 0.42552438283272076,
+      "bias": -0.03125,
+      "correlation": -0.0625,
+      "feedforward": false,
+      "input_difference": "w12.b13",
+      "input_difference_bits": [
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 240,
+      "output_mask": "w05.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ]
+      ],
+      "probability": 0.46875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022053886309836356
+    },
+    {
+      "abs_correlation": 0.05859375,
+      "approx_95ci_high": 0.5139390043845486,
+      "approx_95ci_low": 0.4274672456154513,
+      "bias": -0.029296875,
+      "correlation": -0.05859375,
+      "feedforward": false,
+      "input_difference": "w00.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "matches": 241,
+      "output_mask": "w12.b23",
+      "output_mask_bits": [
+        [
+          12,
+          23
+        ]
+      ],
+      "probability": 0.470703125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022059122134973824
+    },
+    {
+      "abs_correlation": 0.05859375,
+      "approx_95ci_high": 0.5725327543845486,
+      "approx_95ci_low": 0.4860609956154513,
+      "bias": 0.029296875,
+      "correlation": 0.05859375,
+      "feedforward": false,
+      "input_difference": "w04.b00",
+      "input_difference_bits": [
+        [
+          4,
+          0
+        ]
+      ],
+      "matches": 271,
+      "output_mask": "w10.b13",
+      "output_mask_bits": [
+        [
+          10,
+          13
+        ]
+      ],
+      "probability": 0.529296875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022059122134973824
+    },
+    {
+      "abs_correlation": 0.05859375,
+      "approx_95ci_high": 0.5725327543845486,
+      "approx_95ci_low": 0.4860609956154513,
+      "bias": 0.029296875,
+      "correlation": 0.05859375,
+      "feedforward": false,
+      "input_difference": "w05.b00+w10.b00",
+      "input_difference_bits": [
+        [
+          5,
+          0
+        ],
+        [
+          10,
+          0
+        ]
+      ],
+      "matches": 271,
+      "output_mask": "w08.b13+w12.b13",
+      "output_mask_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "probability": 0.529296875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022059122134973824
+    },
+    {
+      "abs_correlation": 0.05859375,
+      "approx_95ci_high": 0.5725327543845486,
+      "approx_95ci_low": 0.4860609956154513,
+      "bias": 0.029296875,
+      "correlation": 0.05859375,
+      "feedforward": false,
+      "input_difference": "w05.b07",
+      "input_difference_bits": [
+        [
+          5,
+          7
+        ]
+      ],
+      "matches": 271,
+      "output_mask": "w00.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "probability": 0.529296875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022059122134973824
+    },
+    {
+      "abs_correlation": 0.05859375,
+      "approx_95ci_high": 0.5725327543845486,
+      "approx_95ci_low": 0.4860609956154513,
+      "bias": 0.029296875,
+      "correlation": 0.05859375,
+      "feedforward": false,
+      "input_difference": "w06.b24",
+      "input_difference_bits": [
+        [
+          6,
+          24
+        ]
+      ],
+      "matches": 271,
+      "output_mask": "w05.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ]
+      ],
+      "probability": 0.529296875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022059122134973824
+    },
+    {
+      "abs_correlation": 0.05859375,
+      "approx_95ci_high": 0.5139390043845486,
+      "approx_95ci_low": 0.4274672456154513,
+      "bias": -0.029296875,
+      "correlation": -0.05859375,
+      "feedforward": false,
+      "input_difference": "w08.b09",
+      "input_difference_bits": [
+        [
+          8,
+          9
+        ]
+      ],
+      "matches": 241,
+      "output_mask": "w00.b07+w04.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "probability": 0.470703125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022059122134973824
+    },
+    {
+      "abs_correlation": 0.05859375,
+      "approx_95ci_high": 0.5725327543845486,
+      "approx_95ci_low": 0.4860609956154513,
+      "bias": 0.029296875,
+      "correlation": 0.05859375,
+      "feedforward": false,
+      "input_difference": "w12.b13",
+      "input_difference_bits": [
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 271,
+      "output_mask": "w01.b00",
+      "output_mask_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.529296875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022059122134973824
+    },
+    {
+      "abs_correlation": 0.05859375,
+      "approx_95ci_high": 0.5725327543845486,
+      "approx_95ci_low": 0.4860609956154513,
+      "bias": 0.029296875,
+      "correlation": 0.05859375,
+      "feedforward": false,
+      "input_difference": "w12.b13",
+      "input_difference_bits": [
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 271,
+      "output_mask": "w07.b23",
+      "output_mask_bits": [
+        [
+          7,
+          23
+        ]
+      ],
+      "probability": 0.529296875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022059122134973824
+    },
+    {
+      "abs_correlation": 0.0546875,
+      "approx_95ci_high": 0.5705892273186451,
+      "approx_95ci_low": 0.4840982726813548,
+      "bias": 0.02734375,
+      "correlation": 0.0546875,
+      "feedforward": false,
+      "input_difference": "w00.b00+w01.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 270,
+      "output_mask": "w00.b00+w01.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.52734375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.0220640190401251
+    },
+    {
+      "abs_correlation": 0.0546875,
+      "approx_95ci_high": 0.5159017273186451,
+      "approx_95ci_low": 0.4294107726813548,
+      "bias": -0.02734375,
+      "correlation": -0.0546875,
+      "feedforward": false,
+      "input_difference": "w01.b25",
+      "input_difference_bits": [
+        [
+          1,
+          25
+        ]
+      ],
+      "matches": 242,
+      "output_mask": "w01.b00",
+      "output_mask_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.47265625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.0220640190401251
+    },
+    {
+      "abs_correlation": 0.0546875,
+      "approx_95ci_high": 0.5705892273186451,
+      "approx_95ci_low": 0.4840982726813548,
+      "bias": 0.02734375,
+      "correlation": 0.0546875,
+      "feedforward": false,
+      "input_difference": "w04.b00",
+      "input_difference_bits": [
+        [
+          4,
+          0
+        ]
+      ],
+      "matches": 270,
+      "output_mask": "w00.b07+w04.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "probability": 0.52734375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.0220640190401251
+    },
+    {
+      "abs_correlation": 0.0546875,
+      "approx_95ci_high": 0.5159017273186451,
+      "approx_95ci_low": 0.4294107726813548,
+      "bias": -0.02734375,
+      "correlation": -0.0546875,
+      "feedforward": false,
+      "input_difference": "w05.b00+w10.b00",
+      "input_difference_bits": [
+        [
+          5,
+          0
+        ],
+        [
+          10,
+          0
+        ]
+      ],
+      "matches": 242,
+      "output_mask": "w13.b19",
+      "output_mask_bits": [
+        [
+          13,
+          19
+        ]
+      ],
+      "probability": 0.47265625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.0220640190401251
+    },
+    {
+      "abs_correlation": 0.0546875,
+      "approx_95ci_high": 0.5705892273186451,
+      "approx_95ci_low": 0.4840982726813548,
+      "bias": 0.02734375,
+      "correlation": 0.0546875,
+      "feedforward": false,
+      "input_difference": "w06.b24",
+      "input_difference_bits": [
+        [
+          6,
+          24
+        ]
+      ],
+      "matches": 270,
+      "output_mask": "w00.b00+w01.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.52734375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.0220640190401251
+    },
+    {
+      "abs_correlation": 0.0546875,
+      "approx_95ci_high": 0.5159017273186451,
+      "approx_95ci_low": 0.4294107726813548,
+      "bias": -0.02734375,
+      "correlation": -0.0546875,
+      "feedforward": false,
+      "input_difference": "w06.b24",
+      "input_difference_bits": [
+        [
+          6,
+          24
+        ]
+      ],
+      "matches": 242,
+      "output_mask": "w05.b09+w10.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "probability": 0.47265625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.0220640190401251
+    },
+    {
+      "abs_correlation": 0.0546875,
+      "approx_95ci_high": 0.5705892273186451,
+      "approx_95ci_low": 0.4840982726813548,
+      "bias": 0.02734375,
+      "correlation": 0.0546875,
+      "feedforward": false,
+      "input_difference": "w08.b13+w12.b13",
+      "input_difference_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 270,
+      "output_mask": "w13.b00",
+      "output_mask_bits": [
+        [
+          13,
+          0
+        ]
+      ],
+      "probability": 0.52734375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.0220640190401251
+    },
+    {
+      "abs_correlation": 0.0546875,
+      "approx_95ci_high": 0.5159017273186451,
+      "approx_95ci_low": 0.4294107726813548,
+      "bias": -0.02734375,
+      "correlation": -0.0546875,
+      "feedforward": false,
+      "input_difference": "w12.b13",
+      "input_difference_bits": [
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 242,
+      "output_mask": "w00.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ]
+      ],
+      "probability": 0.47265625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.0220640190401251
+    },
+    {
+      "abs_correlation": 0.0546875,
+      "approx_95ci_high": 0.5159017273186451,
+      "approx_95ci_low": 0.4294107726813548,
+      "bias": -0.02734375,
+      "correlation": -0.0546875,
+      "feedforward": false,
+      "input_difference": "w12.b13",
+      "input_difference_bits": [
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 242,
+      "output_mask": "w03.b29",
+      "output_mask_bits": [
+        [
+          3,
+          29
+        ]
+      ],
+      "probability": 0.47265625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.0220640190401251
+    },
+    {
+      "abs_correlation": 0.0546875,
+      "approx_95ci_high": 0.5159017273186451,
+      "approx_95ci_low": 0.4294107726813548,
+      "bias": -0.02734375,
+      "correlation": -0.0546875,
+      "feedforward": false,
+      "input_difference": "w15.b18",
+      "input_difference_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "matches": 242,
+      "output_mask": "w08.b13+w12.b13",
+      "output_mask_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "probability": 0.47265625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.0220640190401251
+    },
+    {
+      "abs_correlation": 0.0546875,
+      "approx_95ci_high": 0.5159017273186451,
+      "approx_95ci_low": 0.4294107726813548,
+      "bias": -0.02734375,
+      "correlation": -0.0546875,
+      "feedforward": false,
+      "input_difference": "w15.b28",
+      "input_difference_bits": [
+        [
+          15,
+          28
+        ]
+      ],
+      "matches": 242,
+      "output_mask": "w07.b23",
+      "output_mask_bits": [
+        [
+          7,
+          23
+        ]
+      ],
+      "probability": 0.47265625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.0220640190401251
+    },
+    {
+      "abs_correlation": 0.05078125,
+      "approx_95ci_high": 0.5686450364117719,
+      "approx_95ci_low": 0.48213621358822806,
+      "bias": 0.025390625,
+      "correlation": 0.05078125,
+      "feedforward": false,
+      "input_difference": "w00.b00+w01.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 269,
+      "output_mask": "w08.b13+w12.b13",
+      "output_mask_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "probability": 0.525390625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022068577250904053
+    },
+    {
+      "abs_correlation": 0.05078125,
+      "approx_95ci_high": 0.5686450364117719,
+      "approx_95ci_low": 0.48213621358822806,
+      "bias": 0.025390625,
+      "correlation": 0.05078125,
+      "feedforward": false,
+      "input_difference": "w00.b07+w04.b07",
+      "input_difference_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "matches": 269,
+      "output_mask": "w05.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ]
+      ],
+      "probability": 0.525390625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022068577250904053
+    },
+    {
+      "abs_correlation": 0.05078125,
+      "approx_95ci_high": 0.5178637864117719,
+      "approx_95ci_low": 0.43135496358822806,
+      "bias": -0.025390625,
+      "correlation": -0.05078125,
+      "feedforward": false,
+      "input_difference": "w06.b24",
+      "input_difference_bits": [
+        [
+          6,
+          24
+        ]
+      ],
+      "matches": 243,
+      "output_mask": "w03.b29",
+      "output_mask_bits": [
+        [
+          3,
+          29
+        ]
+      ],
+      "probability": 0.474609375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022068577250904053
+    },
+    {
+      "abs_correlation": 0.05078125,
+      "approx_95ci_high": 0.5178637864117719,
+      "approx_95ci_low": 0.43135496358822806,
+      "bias": -0.025390625,
+      "correlation": -0.05078125,
+      "feedforward": false,
+      "input_difference": "w09.b03",
+      "input_difference_bits": [
+        [
+          9,
+          3
+        ]
+      ],
+      "matches": 243,
+      "output_mask": "w10.b13",
+      "output_mask_bits": [
+        [
+          10,
+          13
+        ]
+      ],
+      "probability": 0.474609375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022068577250904053
+    },
+    {
+      "abs_correlation": 0.05078125,
+      "approx_95ci_high": 0.5686450364117719,
+      "approx_95ci_low": 0.48213621358822806,
+      "bias": 0.025390625,
+      "correlation": 0.05078125,
+      "feedforward": false,
+      "input_difference": "w09.b28",
+      "input_difference_bits": [
+        [
+          9,
+          28
+        ]
+      ],
+      "matches": 269,
+      "output_mask": "w13.b00",
+      "output_mask_bits": [
+        [
+          13,
+          0
+        ]
+      ],
+      "probability": 0.525390625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022068577250904053
+    },
+    {
+      "abs_correlation": 0.05078125,
+      "approx_95ci_high": 0.5686450364117719,
+      "approx_95ci_low": 0.48213621358822806,
+      "bias": 0.025390625,
+      "correlation": 0.05078125,
+      "feedforward": false,
+      "input_difference": "w15.b18",
+      "input_difference_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "matches": 269,
+      "output_mask": "w12.b23",
+      "output_mask_bits": [
+        [
+          12,
+          23
+        ]
+      ],
+      "probability": 0.525390625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022068577250904053
+    },
+    {
+      "abs_correlation": 0.05078125,
+      "approx_95ci_high": 0.5686450364117719,
+      "approx_95ci_low": 0.48213621358822806,
+      "bias": 0.025390625,
+      "correlation": 0.05078125,
+      "feedforward": false,
+      "input_difference": "w15.b28",
+      "input_difference_bits": [
+        [
+          15,
+          28
+        ]
+      ],
+      "matches": 269,
+      "output_mask": "w13.b19",
+      "output_mask_bits": [
+        [
+          13,
+          19
+        ]
+      ],
+      "probability": 0.525390625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022068577250904053
+    },
+    {
+      "abs_correlation": 0.046875,
+      "approx_95ci_high": 0.5667001820751945,
+      "approx_95ci_low": 0.4801748179248055,
+      "bias": 0.0234375,
+      "correlation": 0.046875,
+      "feedforward": false,
+      "input_difference": "w00.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "matches": 268,
+      "output_mask": "w07.b23",
+      "output_mask_bits": [
+        [
+          7,
+          23
+        ]
+      ],
+      "probability": 0.5234375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207279697714005
+    },
+    {
+      "abs_correlation": 0.046875,
+      "approx_95ci_high": 0.5667001820751945,
+      "approx_95ci_low": 0.4801748179248055,
+      "bias": 0.0234375,
+      "correlation": 0.046875,
+      "feedforward": false,
+      "input_difference": "w01.b00",
+      "input_difference_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 268,
+      "output_mask": "w13.b00",
+      "output_mask_bits": [
+        [
+          13,
+          0
+        ]
+      ],
+      "probability": 0.5234375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207279697714005
+    },
+    {
+      "abs_correlation": 0.046875,
+      "approx_95ci_high": 0.5198251820751945,
+      "approx_95ci_low": 0.4332998179248055,
+      "bias": -0.0234375,
+      "correlation": -0.046875,
+      "feedforward": false,
+      "input_difference": "w01.b25",
+      "input_difference_bits": [
+        [
+          1,
+          25
+        ]
+      ],
+      "matches": 244,
+      "output_mask": "w08.b13+w12.b13",
+      "output_mask_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "probability": 0.4765625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207279697714005
+    },
+    {
+      "abs_correlation": 0.046875,
+      "approx_95ci_high": 0.5198251820751945,
+      "approx_95ci_low": 0.4332998179248055,
+      "bias": -0.0234375,
+      "correlation": -0.046875,
+      "feedforward": false,
+      "input_difference": "w05.b00+w10.b00",
+      "input_difference_bits": [
+        [
+          5,
+          0
+        ],
+        [
+          10,
+          0
+        ]
+      ],
+      "matches": 244,
+      "output_mask": "w00.b07+w04.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "probability": 0.4765625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207279697714005
+    },
+    {
+      "abs_correlation": 0.046875,
+      "approx_95ci_high": 0.5667001820751945,
+      "approx_95ci_low": 0.4801748179248055,
+      "bias": 0.0234375,
+      "correlation": 0.046875,
+      "feedforward": false,
+      "input_difference": "w05.b07",
+      "input_difference_bits": [
+        [
+          5,
+          7
+        ]
+      ],
+      "matches": 268,
+      "output_mask": "w05.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ]
+      ],
+      "probability": 0.5234375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207279697714005
+    },
+    {
+      "abs_correlation": 0.046875,
+      "approx_95ci_high": 0.5198251820751945,
+      "approx_95ci_low": 0.4332998179248055,
+      "bias": -0.0234375,
+      "correlation": -0.046875,
+      "feedforward": false,
+      "input_difference": "w05.b07",
+      "input_difference_bits": [
+        [
+          5,
+          7
+        ]
+      ],
+      "matches": 244,
+      "output_mask": "w13.b19",
+      "output_mask_bits": [
+        [
+          13,
+          19
+        ]
+      ],
+      "probability": 0.4765625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207279697714005
+    },
+    {
+      "abs_correlation": 0.046875,
+      "approx_95ci_high": 0.5198251820751945,
+      "approx_95ci_low": 0.4332998179248055,
+      "bias": -0.0234375,
+      "correlation": -0.046875,
+      "feedforward": false,
+      "input_difference": "w06.b24",
+      "input_difference_bits": [
+        [
+          6,
+          24
+        ]
+      ],
+      "matches": 244,
+      "output_mask": "w00.b07+w04.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "probability": 0.4765625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207279697714005
+    },
+    {
+      "abs_correlation": 0.046875,
+      "approx_95ci_high": 0.5667001820751945,
+      "approx_95ci_low": 0.4801748179248055,
+      "bias": 0.0234375,
+      "correlation": 0.046875,
+      "feedforward": false,
+      "input_difference": "w08.b09",
+      "input_difference_bits": [
+        [
+          8,
+          9
+        ]
+      ],
+      "matches": 268,
+      "output_mask": "w10.b13",
+      "output_mask_bits": [
+        [
+          10,
+          13
+        ]
+      ],
+      "probability": 0.5234375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207279697714005
+    },
+    {
+      "abs_correlation": 0.046875,
+      "approx_95ci_high": 0.5198251820751945,
+      "approx_95ci_low": 0.4332998179248055,
+      "bias": -0.0234375,
+      "correlation": -0.046875,
+      "feedforward": false,
+      "input_difference": "w09.b03",
+      "input_difference_bits": [
+        [
+          9,
+          3
+        ]
+      ],
+      "matches": 244,
+      "output_mask": "w03.b29",
+      "output_mask_bits": [
+        [
+          3,
+          29
+        ]
+      ],
+      "probability": 0.4765625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207279697714005
+    },
+    {
+      "abs_correlation": 0.046875,
+      "approx_95ci_high": 0.5667001820751945,
+      "approx_95ci_low": 0.4801748179248055,
+      "bias": 0.0234375,
+      "correlation": 0.046875,
+      "feedforward": false,
+      "input_difference": "w12.b13",
+      "input_difference_bits": [
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 268,
+      "output_mask": "w00.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "probability": 0.5234375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207279697714005
+    },
+    {
+      "abs_correlation": 0.046875,
+      "approx_95ci_high": 0.5667001820751945,
+      "approx_95ci_low": 0.4801748179248055,
+      "bias": 0.0234375,
+      "correlation": 0.046875,
+      "feedforward": false,
+      "input_difference": "w15.b28",
+      "input_difference_bits": [
+        [
+          15,
+          28
+        ]
+      ],
+      "matches": 268,
+      "output_mask": "w00.b00+w01.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.5234375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207279697714005
+    },
+    {
+      "abs_correlation": 0.04296875,
+      "approx_95ci_high": 0.5647546646893358,
+      "approx_95ci_low": 0.47821408531066417,
+      "bias": 0.021484375,
+      "correlation": 0.04296875,
+      "feedforward": false,
+      "input_difference": "w00.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "matches": 267,
+      "output_mask": "w10.b13",
+      "output_mask_bits": [
+        [
+          10,
+          13
+        ]
+      ],
+      "probability": 0.521484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207667841292644
+    },
+    {
+      "abs_correlation": 0.04296875,
+      "approx_95ci_high": 0.5217859146893358,
+      "approx_95ci_low": 0.43524533531066417,
+      "bias": -0.021484375,
+      "correlation": -0.04296875,
+      "feedforward": false,
+      "input_difference": "w01.b00",
+      "input_difference_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 245,
+      "output_mask": "w00.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ]
+      ],
+      "probability": 0.478515625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207667841292644
+    },
+    {
+      "abs_correlation": 0.04296875,
+      "approx_95ci_high": 0.5217859146893358,
+      "approx_95ci_low": 0.43524533531066417,
+      "bias": -0.021484375,
+      "correlation": -0.04296875,
+      "feedforward": false,
+      "input_difference": "w01.b25",
+      "input_difference_bits": [
+        [
+          1,
+          25
+        ]
+      ],
+      "matches": 245,
+      "output_mask": "w07.b23",
+      "output_mask_bits": [
+        [
+          7,
+          23
+        ]
+      ],
+      "probability": 0.478515625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207667841292644
+    },
+    {
+      "abs_correlation": 0.04296875,
+      "approx_95ci_high": 0.5647546646893358,
+      "approx_95ci_low": 0.47821408531066417,
+      "bias": 0.021484375,
+      "correlation": 0.04296875,
+      "feedforward": false,
+      "input_difference": "w01.b25",
+      "input_difference_bits": [
+        [
+          1,
+          25
+        ]
+      ],
+      "matches": 267,
+      "output_mask": "w12.b23",
+      "output_mask_bits": [
+        [
+          12,
+          23
+        ]
+      ],
+      "probability": 0.521484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207667841292644
+    },
+    {
+      "abs_correlation": 0.04296875,
+      "approx_95ci_high": 0.5647546646893358,
+      "approx_95ci_low": 0.47821408531066417,
+      "bias": 0.021484375,
+      "correlation": 0.04296875,
+      "feedforward": false,
+      "input_difference": "w04.b00",
+      "input_difference_bits": [
+        [
+          4,
+          0
+        ]
+      ],
+      "matches": 267,
+      "output_mask": "w07.b23",
+      "output_mask_bits": [
+        [
+          7,
+          23
+        ]
+      ],
+      "probability": 0.521484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207667841292644
+    },
+    {
+      "abs_correlation": 0.04296875,
+      "approx_95ci_high": 0.5647546646893358,
+      "approx_95ci_low": 0.47821408531066417,
+      "bias": 0.021484375,
+      "correlation": 0.04296875,
+      "feedforward": false,
+      "input_difference": "w08.b09",
+      "input_difference_bits": [
+        [
+          8,
+          9
+        ]
+      ],
+      "matches": 267,
+      "output_mask": "w00.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ]
+      ],
+      "probability": 0.521484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207667841292644
+    },
+    {
+      "abs_correlation": 0.04296875,
+      "approx_95ci_high": 0.5647546646893358,
+      "approx_95ci_low": 0.47821408531066417,
+      "bias": 0.021484375,
+      "correlation": 0.04296875,
+      "feedforward": false,
+      "input_difference": "w08.b13+w12.b13",
+      "input_difference_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 267,
+      "output_mask": "w01.b00",
+      "output_mask_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.521484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207667841292644
+    },
+    {
+      "abs_correlation": 0.04296875,
+      "approx_95ci_high": 0.5647546646893358,
+      "approx_95ci_low": 0.47821408531066417,
+      "bias": 0.021484375,
+      "correlation": 0.04296875,
+      "feedforward": false,
+      "input_difference": "w08.b13+w12.b13",
+      "input_difference_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 267,
+      "output_mask": "w05.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ]
+      ],
+      "probability": 0.521484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207667841292644
+    },
+    {
+      "abs_correlation": 0.04296875,
+      "approx_95ci_high": 0.5647546646893358,
+      "approx_95ci_low": 0.47821408531066417,
+      "bias": 0.021484375,
+      "correlation": 0.04296875,
+      "feedforward": false,
+      "input_difference": "w09.b03",
+      "input_difference_bits": [
+        [
+          9,
+          3
+        ]
+      ],
+      "matches": 267,
+      "output_mask": "w00.b00+w01.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.521484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207667841292644
+    },
+    {
+      "abs_correlation": 0.04296875,
+      "approx_95ci_high": 0.5217859146893358,
+      "approx_95ci_low": 0.43524533531066417,
+      "bias": -0.021484375,
+      "correlation": -0.04296875,
+      "feedforward": false,
+      "input_difference": "w09.b03",
+      "input_difference_bits": [
+        [
+          9,
+          3
+        ]
+      ],
+      "matches": 245,
+      "output_mask": "w12.b23",
+      "output_mask_bits": [
+        [
+          12,
+          23
+        ]
+      ],
+      "probability": 0.478515625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207667841292644
+    },
+    {
+      "abs_correlation": 0.04296875,
+      "approx_95ci_high": 0.5217859146893358,
+      "approx_95ci_low": 0.43524533531066417,
+      "bias": -0.021484375,
+      "correlation": -0.04296875,
+      "feedforward": false,
+      "input_difference": "w09.b28",
+      "input_difference_bits": [
+        [
+          9,
+          28
+        ]
+      ],
+      "matches": 245,
+      "output_mask": "w12.b04",
+      "output_mask_bits": [
+        [
+          12,
+          4
+        ]
+      ],
+      "probability": 0.478515625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207667841292644
+    },
+    {
+      "abs_correlation": 0.04296875,
+      "approx_95ci_high": 0.5647546646893358,
+      "approx_95ci_low": 0.47821408531066417,
+      "bias": 0.021484375,
+      "correlation": 0.04296875,
+      "feedforward": false,
+      "input_difference": "w15.b18",
+      "input_difference_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "matches": 267,
+      "output_mask": "w05.b09+w10.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "probability": 0.521484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02207667841292644
+    },
+    {
+      "abs_correlation": 0.0390625,
+      "approx_95ci_high": 0.562808484603864,
+      "approx_95ci_low": 0.476254015396136,
+      "bias": 0.01953125,
+      "correlation": 0.0390625,
+      "feedforward": false,
+      "input_difference": "w00.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "matches": 266,
+      "output_mask": "w00.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ]
+      ],
+      "probability": 0.51953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02208022173666532
+    },
+    {
+      "abs_correlation": 0.0390625,
+      "approx_95ci_high": 0.523745984603864,
+      "approx_95ci_low": 0.437191515396136,
+      "bias": -0.01953125,
+      "correlation": -0.0390625,
+      "feedforward": false,
+      "input_difference": "w00.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "matches": 246,
+      "output_mask": "w08.b13+w12.b13",
+      "output_mask_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "probability": 0.48046875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02208022173666532
+    },
+    {
+      "abs_correlation": 0.0390625,
+      "approx_95ci_high": 0.523745984603864,
+      "approx_95ci_low": 0.437191515396136,
+      "bias": -0.01953125,
+      "correlation": -0.0390625,
+      "feedforward": false,
+      "input_difference": "w00.b00+w01.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 246,
+      "output_mask": "w05.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ]
+      ],
+      "probability": 0.48046875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02208022173666532
+    },
+    {
+      "abs_correlation": 0.0390625,
+      "approx_95ci_high": 0.562808484603864,
+      "approx_95ci_low": 0.476254015396136,
+      "bias": 0.01953125,
+      "correlation": 0.0390625,
+      "feedforward": false,
+      "input_difference": "w01.b25",
+      "input_difference_bits": [
+        [
+          1,
+          25
+        ]
+      ],
+      "matches": 266,
+      "output_mask": "w00.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ]
+      ],
+      "probability": 0.51953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02208022173666532
+    },
+    {
+      "abs_correlation": 0.0390625,
+      "approx_95ci_high": 0.562808484603864,
+      "approx_95ci_low": 0.476254015396136,
+      "bias": 0.01953125,
+      "correlation": 0.0390625,
+      "feedforward": false,
+      "input_difference": "w01.b25",
+      "input_difference_bits": [
+        [
+          1,
+          25
+        ]
+      ],
+      "matches": 266,
+      "output_mask": "w13.b00",
+      "output_mask_bits": [
+        [
+          13,
+          0
+        ]
+      ],
+      "probability": 0.51953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02208022173666532
+    },
+    {
+      "abs_correlation": 0.0390625,
+      "approx_95ci_high": 0.562808484603864,
+      "approx_95ci_low": 0.476254015396136,
+      "bias": 0.01953125,
+      "correlation": 0.0390625,
+      "feedforward": false,
+      "input_difference": "w05.b00+w10.b00",
+      "input_difference_bits": [
+        [
+          5,
+          0
+        ],
+        [
+          10,
+          0
+        ]
+      ],
+      "matches": 266,
+      "output_mask": "w07.b23",
+      "output_mask_bits": [
+        [
+          7,
+          23
+        ]
+      ],
+      "probability": 0.51953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02208022173666532
+    },
+    {
+      "abs_correlation": 0.0390625,
+      "approx_95ci_high": 0.562808484603864,
+      "approx_95ci_low": 0.476254015396136,
+      "bias": 0.01953125,
+      "correlation": 0.0390625,
+      "feedforward": false,
+      "input_difference": "w05.b07",
+      "input_difference_bits": [
+        [
+          5,
+          7
+        ]
+      ],
+      "matches": 266,
+      "output_mask": "w13.b00",
+      "output_mask_bits": [
+        [
+          13,
+          0
+        ]
+      ],
+      "probability": 0.51953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02208022173666532
+    },
+    {
+      "abs_correlation": 0.0390625,
+      "approx_95ci_high": 0.562808484603864,
+      "approx_95ci_low": 0.476254015396136,
+      "bias": 0.01953125,
+      "correlation": 0.0390625,
+      "feedforward": false,
+      "input_difference": "w06.b24",
+      "input_difference_bits": [
+        [
+          6,
+          24
+        ]
+      ],
+      "matches": 266,
+      "output_mask": "w00.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "probability": 0.51953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02208022173666532
+    },
+    {
+      "abs_correlation": 0.0390625,
+      "approx_95ci_high": 0.562808484603864,
+      "approx_95ci_low": 0.476254015396136,
+      "bias": 0.01953125,
+      "correlation": 0.0390625,
+      "feedforward": false,
+      "input_difference": "w08.b09",
+      "input_difference_bits": [
+        [
+          8,
+          9
+        ]
+      ],
+      "matches": 266,
+      "output_mask": "w05.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ]
+      ],
+      "probability": 0.51953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02208022173666532
+    },
+    {
+      "abs_correlation": 0.0390625,
+      "approx_95ci_high": 0.562808484603864,
+      "approx_95ci_low": 0.476254015396136,
+      "bias": 0.01953125,
+      "correlation": 0.0390625,
+      "feedforward": false,
+      "input_difference": "w08.b13+w12.b13",
+      "input_difference_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 266,
+      "output_mask": "w15.b18",
+      "output_mask_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "probability": 0.51953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02208022173666532
+    },
+    {
+      "abs_correlation": 0.0390625,
+      "approx_95ci_high": 0.562808484603864,
+      "approx_95ci_low": 0.476254015396136,
+      "bias": 0.01953125,
+      "correlation": 0.0390625,
+      "feedforward": false,
+      "input_difference": "w09.b03",
+      "input_difference_bits": [
+        [
+          9,
+          3
+        ]
+      ],
+      "matches": 266,
+      "output_mask": "w00.b07+w04.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "probability": 0.51953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02208022173666532
+    },
+    {
+      "abs_correlation": 0.0390625,
+      "approx_95ci_high": 0.523745984603864,
+      "approx_95ci_low": 0.437191515396136,
+      "bias": -0.01953125,
+      "correlation": -0.0390625,
+      "feedforward": false,
+      "input_difference": "w09.b28",
+      "input_difference_bits": [
+        [
+          9,
+          28
+        ]
+      ],
+      "matches": 246,
+      "output_mask": "w10.b13",
+      "output_mask_bits": [
+        [
+          10,
+          13
+        ]
+      ],
+      "probability": 0.48046875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02208022173666532
+    },
+    {
+      "abs_correlation": 0.0390625,
+      "approx_95ci_high": 0.523745984603864,
+      "approx_95ci_low": 0.437191515396136,
+      "bias": -0.01953125,
+      "correlation": -0.0390625,
+      "feedforward": false,
+      "input_difference": "w12.b13",
+      "input_difference_bits": [
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 246,
+      "output_mask": "w00.b07+w04.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "probability": 0.48046875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02208022173666532
+    },
+    {
+      "abs_correlation": 0.0390625,
+      "approx_95ci_high": 0.562808484603864,
+      "approx_95ci_low": 0.476254015396136,
+      "bias": 0.01953125,
+      "correlation": 0.0390625,
+      "feedforward": false,
+      "input_difference": "w12.b13",
+      "input_difference_bits": [
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 266,
+      "output_mask": "w12.b04",
+      "output_mask_bits": [
+        [
+          12,
+          4
+        ]
+      ],
+      "probability": 0.51953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02208022173666532
+    },
+    {
+      "abs_correlation": 0.0390625,
+      "approx_95ci_high": 0.562808484603864,
+      "approx_95ci_low": 0.476254015396136,
+      "bias": 0.01953125,
+      "correlation": 0.0390625,
+      "feedforward": false,
+      "input_difference": "w15.b28",
+      "input_difference_bits": [
+        [
+          15,
+          28
+        ]
+      ],
+      "matches": 266,
+      "output_mask": "w15.b18",
+      "output_mask_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "probability": 0.51953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02208022173666532
+    },
+    {
+      "abs_correlation": 0.03515625,
+      "approx_95ci_high": 0.525705392137773,
+      "approx_95ci_low": 0.439138357862227,
+      "bias": -0.017578125,
+      "correlation": -0.03515625,
+      "feedforward": false,
+      "input_difference": "w00.b00+w01.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 247,
+      "output_mask": "w03.b29",
+      "output_mask_bits": [
+        [
+          3,
+          29
+        ]
+      ],
+      "probability": 0.482421875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022083427111108663
+    },
+    {
+      "abs_correlation": 0.03515625,
+      "approx_95ci_high": 0.560861642137773,
+      "approx_95ci_low": 0.474294607862227,
+      "bias": 0.017578125,
+      "correlation": 0.03515625,
+      "feedforward": false,
+      "input_difference": "w00.b07+w04.b07",
+      "input_difference_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "matches": 265,
+      "output_mask": "w00.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "probability": 0.517578125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022083427111108663
+    },
+    {
+      "abs_correlation": 0.03515625,
+      "approx_95ci_high": 0.525705392137773,
+      "approx_95ci_low": 0.439138357862227,
+      "bias": -0.017578125,
+      "correlation": -0.03515625,
+      "feedforward": false,
+      "input_difference": "w01.b25",
+      "input_difference_bits": [
+        [
+          1,
+          25
+        ]
+      ],
+      "matches": 247,
+      "output_mask": "w12.b04",
+      "output_mask_bits": [
+        [
+          12,
+          4
+        ]
+      ],
+      "probability": 0.482421875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022083427111108663
+    },
+    {
+      "abs_correlation": 0.03515625,
+      "approx_95ci_high": 0.525705392137773,
+      "approx_95ci_low": 0.439138357862227,
+      "bias": -0.017578125,
+      "correlation": -0.03515625,
+      "feedforward": false,
+      "input_difference": "w04.b00",
+      "input_difference_bits": [
+        [
+          4,
+          0
+        ]
+      ],
+      "matches": 247,
+      "output_mask": "w05.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ]
+      ],
+      "probability": 0.482421875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022083427111108663
+    },
+    {
+      "abs_correlation": 0.03515625,
+      "approx_95ci_high": 0.560861642137773,
+      "approx_95ci_low": 0.474294607862227,
+      "bias": 0.017578125,
+      "correlation": 0.03515625,
+      "feedforward": false,
+      "input_difference": "w05.b00+w10.b00",
+      "input_difference_bits": [
+        [
+          5,
+          0
+        ],
+        [
+          10,
+          0
+        ]
+      ],
+      "matches": 265,
+      "output_mask": "w00.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "probability": 0.517578125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022083427111108663
+    },
+    {
+      "abs_correlation": 0.03515625,
+      "approx_95ci_high": 0.560861642137773,
+      "approx_95ci_low": 0.474294607862227,
+      "bias": 0.017578125,
+      "correlation": 0.03515625,
+      "feedforward": false,
+      "input_difference": "w05.b00+w10.b00",
+      "input_difference_bits": [
+        [
+          5,
+          0
+        ],
+        [
+          10,
+          0
+        ]
+      ],
+      "matches": 265,
+      "output_mask": "w01.b00",
+      "output_mask_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.517578125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022083427111108663
+    },
+    {
+      "abs_correlation": 0.03515625,
+      "approx_95ci_high": 0.560861642137773,
+      "approx_95ci_low": 0.474294607862227,
+      "bias": 0.017578125,
+      "correlation": 0.03515625,
+      "feedforward": false,
+      "input_difference": "w05.b00+w10.b00",
+      "input_difference_bits": [
+        [
+          5,
+          0
+        ],
+        [
+          10,
+          0
+        ]
+      ],
+      "matches": 265,
+      "output_mask": "w12.b23",
+      "output_mask_bits": [
+        [
+          12,
+          23
+        ]
+      ],
+      "probability": 0.517578125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022083427111108663
+    },
+    {
+      "abs_correlation": 0.03515625,
+      "approx_95ci_high": 0.525705392137773,
+      "approx_95ci_low": 0.439138357862227,
+      "bias": -0.017578125,
+      "correlation": -0.03515625,
+      "feedforward": false,
+      "input_difference": "w05.b07",
+      "input_difference_bits": [
+        [
+          5,
+          7
+        ]
+      ],
+      "matches": 247,
+      "output_mask": "w05.b09+w10.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "probability": 0.482421875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022083427111108663
+    },
+    {
+      "abs_correlation": 0.03515625,
+      "approx_95ci_high": 0.560861642137773,
+      "approx_95ci_low": 0.474294607862227,
+      "bias": 0.017578125,
+      "correlation": 0.03515625,
+      "feedforward": false,
+      "input_difference": "w06.b24",
+      "input_difference_bits": [
+        [
+          6,
+          24
+        ]
+      ],
+      "matches": 265,
+      "output_mask": "w08.b13+w12.b13",
+      "output_mask_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "probability": 0.517578125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022083427111108663
+    },
+    {
+      "abs_correlation": 0.03515625,
+      "approx_95ci_high": 0.525705392137773,
+      "approx_95ci_low": 0.439138357862227,
+      "bias": -0.017578125,
+      "correlation": -0.03515625,
+      "feedforward": false,
+      "input_difference": "w06.b24",
+      "input_difference_bits": [
+        [
+          6,
+          24
+        ]
+      ],
+      "matches": 247,
+      "output_mask": "w10.b13",
+      "output_mask_bits": [
+        [
+          10,
+          13
+        ]
+      ],
+      "probability": 0.482421875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022083427111108663
+    },
+    {
+      "abs_correlation": 0.03515625,
+      "approx_95ci_high": 0.560861642137773,
+      "approx_95ci_low": 0.474294607862227,
+      "bias": 0.017578125,
+      "correlation": 0.03515625,
+      "feedforward": false,
+      "input_difference": "w09.b03",
+      "input_difference_bits": [
+        [
+          9,
+          3
+        ]
+      ],
+      "matches": 265,
+      "output_mask": "w01.b00",
+      "output_mask_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.517578125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022083427111108663
+    },
+    {
+      "abs_correlation": 0.03515625,
+      "approx_95ci_high": 0.525705392137773,
+      "approx_95ci_low": 0.439138357862227,
+      "bias": -0.017578125,
+      "correlation": -0.03515625,
+      "feedforward": false,
+      "input_difference": "w09.b28",
+      "input_difference_bits": [
+        [
+          9,
+          28
+        ]
+      ],
+      "matches": 247,
+      "output_mask": "w15.b18",
+      "output_mask_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "probability": 0.482421875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022083427111108663
+    },
+    {
+      "abs_correlation": 0.03515625,
+      "approx_95ci_high": 0.525705392137773,
+      "approx_95ci_low": 0.439138357862227,
+      "bias": -0.017578125,
+      "correlation": -0.03515625,
+      "feedforward": false,
+      "input_difference": "w15.b18",
+      "input_difference_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "matches": 247,
+      "output_mask": "w00.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ]
+      ],
+      "probability": 0.482421875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022083427111108663
+    },
+    {
+      "abs_correlation": 0.03515625,
+      "approx_95ci_high": 0.560861642137773,
+      "approx_95ci_low": 0.474294607862227,
+      "bias": 0.017578125,
+      "correlation": 0.03515625,
+      "feedforward": false,
+      "input_difference": "w15.b18",
+      "input_difference_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "matches": 265,
+      "output_mask": "w00.b07+w04.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "probability": 0.517578125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022083427111108663
+    },
+    {
+      "abs_correlation": 0.03515625,
+      "approx_95ci_high": 0.525705392137773,
+      "approx_95ci_low": 0.439138357862227,
+      "bias": -0.017578125,
+      "correlation": -0.03515625,
+      "feedforward": false,
+      "input_difference": "w15.b18",
+      "input_difference_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "matches": 247,
+      "output_mask": "w03.b29",
+      "output_mask_bits": [
+        [
+          3,
+          29
+        ]
+      ],
+      "probability": 0.482421875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022083427111108663
+    },
+    {
+      "abs_correlation": 0.03125,
+      "approx_95ci_high": 0.5276641375794557,
+      "approx_95ci_low": 0.44108586242054426,
+      "bias": -0.015625,
+      "correlation": -0.03125,
+      "feedforward": false,
+      "input_difference": "w00.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "matches": 248,
+      "output_mask": "w03.b29",
+      "output_mask_bits": [
+        [
+          3,
+          29
+        ]
+      ],
+      "probability": 0.484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022086294683395784
+    },
+    {
+      "abs_correlation": 0.03125,
+      "approx_95ci_high": 0.5276641375794557,
+      "approx_95ci_low": 0.44108586242054426,
+      "bias": -0.015625,
+      "correlation": -0.03125,
+      "feedforward": false,
+      "input_difference": "w00.b00+w01.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 248,
+      "output_mask": "w00.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ]
+      ],
+      "probability": 0.484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022086294683395784
+    },
+    {
+      "abs_correlation": 0.03125,
+      "approx_95ci_high": 0.5589141375794557,
+      "approx_95ci_low": 0.47233586242054426,
+      "bias": 0.015625,
+      "correlation": 0.03125,
+      "feedforward": false,
+      "input_difference": "w01.b00",
+      "input_difference_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 264,
+      "output_mask": "w00.b00+w01.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.515625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022086294683395784
+    },
+    {
+      "abs_correlation": 0.03125,
+      "approx_95ci_high": 0.5276641375794557,
+      "approx_95ci_low": 0.44108586242054426,
+      "bias": -0.015625,
+      "correlation": -0.03125,
+      "feedforward": false,
+      "input_difference": "w01.b00",
+      "input_difference_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 248,
+      "output_mask": "w03.b29",
+      "output_mask_bits": [
+        [
+          3,
+          29
+        ]
+      ],
+      "probability": 0.484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022086294683395784
+    },
+    {
+      "abs_correlation": 0.03125,
+      "approx_95ci_high": 0.5276641375794557,
+      "approx_95ci_low": 0.44108586242054426,
+      "bias": -0.015625,
+      "correlation": -0.03125,
+      "feedforward": false,
+      "input_difference": "w01.b00",
+      "input_difference_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 248,
+      "output_mask": "w08.b13+w12.b13",
+      "output_mask_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "probability": 0.484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022086294683395784
+    },
+    {
+      "abs_correlation": 0.03125,
+      "approx_95ci_high": 0.5589141375794557,
+      "approx_95ci_low": 0.47233586242054426,
+      "bias": 0.015625,
+      "correlation": 0.03125,
+      "feedforward": false,
+      "input_difference": "w05.b00+w10.b00",
+      "input_difference_bits": [
+        [
+          5,
+          0
+        ],
+        [
+          10,
+          0
+        ]
+      ],
+      "matches": 264,
+      "output_mask": "w05.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ]
+      ],
+      "probability": 0.515625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022086294683395784
+    },
+    {
+      "abs_correlation": 0.03125,
+      "approx_95ci_high": 0.5589141375794557,
+      "approx_95ci_low": 0.47233586242054426,
+      "bias": 0.015625,
+      "correlation": 0.03125,
+      "feedforward": false,
+      "input_difference": "w05.b00+w10.b00",
+      "input_difference_bits": [
+        [
+          5,
+          0
+        ],
+        [
+          10,
+          0
+        ]
+      ],
+      "matches": 264,
+      "output_mask": "w15.b18",
+      "output_mask_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "probability": 0.515625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022086294683395784
+    },
+    {
+      "abs_correlation": 0.03125,
+      "approx_95ci_high": 0.5589141375794557,
+      "approx_95ci_low": 0.47233586242054426,
+      "bias": 0.015625,
+      "correlation": 0.03125,
+      "feedforward": false,
+      "input_difference": "w05.b07",
+      "input_difference_bits": [
+        [
+          5,
+          7
+        ]
+      ],
+      "matches": 264,
+      "output_mask": "w00.b07+w04.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "probability": 0.515625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022086294683395784
+    },
+    {
+      "abs_correlation": 0.03125,
+      "approx_95ci_high": 0.5276641375794557,
+      "approx_95ci_low": 0.44108586242054426,
+      "bias": -0.015625,
+      "correlation": -0.03125,
+      "feedforward": false,
+      "input_difference": "w05.b07",
+      "input_difference_bits": [
+        [
+          5,
+          7
+        ]
+      ],
+      "matches": 248,
+      "output_mask": "w01.b00",
+      "output_mask_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022086294683395784
+    },
+    {
+      "abs_correlation": 0.03125,
+      "approx_95ci_high": 0.5276641375794557,
+      "approx_95ci_low": 0.44108586242054426,
+      "bias": -0.015625,
+      "correlation": -0.03125,
+      "feedforward": false,
+      "input_difference": "w06.b24",
+      "input_difference_bits": [
+        [
+          6,
+          24
+        ]
+      ],
+      "matches": 248,
+      "output_mask": "w01.b00",
+      "output_mask_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022086294683395784
+    },
+    {
+      "abs_correlation": 0.03125,
+      "approx_95ci_high": 0.5589141375794557,
+      "approx_95ci_low": 0.47233586242054426,
+      "bias": 0.015625,
+      "correlation": 0.03125,
+      "feedforward": false,
+      "input_difference": "w06.b24",
+      "input_difference_bits": [
+        [
+          6,
+          24
+        ]
+      ],
+      "matches": 264,
+      "output_mask": "w15.b18",
+      "output_mask_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "probability": 0.515625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022086294683395784
+    },
+    {
+      "abs_correlation": 0.03125,
+      "approx_95ci_high": 0.5589141375794557,
+      "approx_95ci_low": 0.47233586242054426,
+      "bias": 0.015625,
+      "correlation": 0.03125,
+      "feedforward": false,
+      "input_difference": "w08.b09",
+      "input_difference_bits": [
+        [
+          8,
+          9
+        ]
+      ],
+      "matches": 264,
+      "output_mask": "w05.b09+w10.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "probability": 0.515625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022086294683395784
+    },
+    {
+      "abs_correlation": 0.03125,
+      "approx_95ci_high": 0.5589141375794557,
+      "approx_95ci_low": 0.47233586242054426,
+      "bias": 0.015625,
+      "correlation": 0.03125,
+      "feedforward": false,
+      "input_difference": "w08.b09",
+      "input_difference_bits": [
+        [
+          8,
+          9
+        ]
+      ],
+      "matches": 264,
+      "output_mask": "w13.b19",
+      "output_mask_bits": [
+        [
+          13,
+          19
+        ]
+      ],
+      "probability": 0.515625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022086294683395784
+    },
+    {
+      "abs_correlation": 0.03125,
+      "approx_95ci_high": 0.5589141375794557,
+      "approx_95ci_low": 0.47233586242054426,
+      "bias": 0.015625,
+      "correlation": 0.03125,
+      "feedforward": false,
+      "input_difference": "w08.b13+w12.b13",
+      "input_difference_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 264,
+      "output_mask": "w07.b23",
+      "output_mask_bits": [
+        [
+          7,
+          23
+        ]
+      ],
+      "probability": 0.515625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022086294683395784
+    },
+    {
+      "abs_correlation": 0.03125,
+      "approx_95ci_high": 0.5276641375794557,
+      "approx_95ci_low": 0.44108586242054426,
+      "bias": -0.015625,
+      "correlation": -0.03125,
+      "feedforward": false,
+      "input_difference": "w08.b13+w12.b13",
+      "input_difference_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 248,
+      "output_mask": "w12.b23",
+      "output_mask_bits": [
+        [
+          12,
+          23
+        ]
+      ],
+      "probability": 0.484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022086294683395784
+    },
+    {
+      "abs_correlation": 0.03125,
+      "approx_95ci_high": 0.5276641375794557,
+      "approx_95ci_low": 0.44108586242054426,
+      "bias": -0.015625,
+      "correlation": -0.03125,
+      "feedforward": false,
+      "input_difference": "w09.b03",
+      "input_difference_bits": [
+        [
+          9,
+          3
+        ]
+      ],
+      "matches": 248,
+      "output_mask": "w05.b09+w10.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "probability": 0.484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022086294683395784
+    },
+    {
+      "abs_correlation": 0.03125,
+      "approx_95ci_high": 0.5589141375794557,
+      "approx_95ci_low": 0.47233586242054426,
+      "bias": 0.015625,
+      "correlation": 0.03125,
+      "feedforward": false,
+      "input_difference": "w09.b28",
+      "input_difference_bits": [
+        [
+          9,
+          28
+        ]
+      ],
+      "matches": 264,
+      "output_mask": "w00.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ]
+      ],
+      "probability": 0.515625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022086294683395784
+    },
+    {
+      "abs_correlation": 0.03125,
+      "approx_95ci_high": 0.5589141375794557,
+      "approx_95ci_low": 0.47233586242054426,
+      "bias": 0.015625,
+      "correlation": 0.03125,
+      "feedforward": false,
+      "input_difference": "w12.b13",
+      "input_difference_bits": [
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 264,
+      "output_mask": "w13.b19",
+      "output_mask_bits": [
+        [
+          13,
+          19
+        ]
+      ],
+      "probability": 0.515625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022086294683395784
+    },
+    {
+      "abs_correlation": 0.03125,
+      "approx_95ci_high": 0.5276641375794557,
+      "approx_95ci_low": 0.44108586242054426,
+      "bias": -0.015625,
+      "correlation": -0.03125,
+      "feedforward": false,
+      "input_difference": "w15.b18",
+      "input_difference_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "matches": 248,
+      "output_mask": "w00.b00+w01.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.484375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022086294683395784
+    },
+    {
+      "abs_correlation": 0.02734375,
+      "approx_95ci_high": 0.5296222211867708,
+      "approx_95ci_low": 0.4430340288132292,
+      "bias": -0.013671875,
+      "correlation": -0.02734375,
+      "feedforward": false,
+      "input_difference": "w00.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "matches": 249,
+      "output_mask": "w13.b00",
+      "output_mask_bits": [
+        [
+          13,
+          0
+        ]
+      ],
+      "probability": 0.486328125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022088824585087156
+    },
+    {
+      "abs_correlation": 0.02734375,
+      "approx_95ci_high": 0.5296222211867708,
+      "approx_95ci_low": 0.4430340288132292,
+      "bias": -0.013671875,
+      "correlation": -0.02734375,
+      "feedforward": false,
+      "input_difference": "w01.b00",
+      "input_difference_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 249,
+      "output_mask": "w01.b00",
+      "output_mask_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.486328125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022088824585087156
+    },
+    {
+      "abs_correlation": 0.02734375,
+      "approx_95ci_high": 0.5296222211867708,
+      "approx_95ci_low": 0.4430340288132292,
+      "bias": -0.013671875,
+      "correlation": -0.02734375,
+      "feedforward": false,
+      "input_difference": "w01.b00",
+      "input_difference_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 249,
+      "output_mask": "w07.b23",
+      "output_mask_bits": [
+        [
+          7,
+          23
+        ]
+      ],
+      "probability": 0.486328125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022088824585087156
+    },
+    {
+      "abs_correlation": 0.02734375,
+      "approx_95ci_high": 0.5569659711867708,
+      "approx_95ci_low": 0.4703777788132292,
+      "bias": 0.013671875,
+      "correlation": 0.02734375,
+      "feedforward": false,
+      "input_difference": "w01.b00",
+      "input_difference_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 263,
+      "output_mask": "w12.b04",
+      "output_mask_bits": [
+        [
+          12,
+          4
+        ]
+      ],
+      "probability": 0.513671875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022088824585087156
+    },
+    {
+      "abs_correlation": 0.02734375,
+      "approx_95ci_high": 0.5569659711867708,
+      "approx_95ci_low": 0.4703777788132292,
+      "bias": 0.013671875,
+      "correlation": 0.02734375,
+      "feedforward": false,
+      "input_difference": "w01.b00",
+      "input_difference_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 263,
+      "output_mask": "w13.b19",
+      "output_mask_bits": [
+        [
+          13,
+          19
+        ]
+      ],
+      "probability": 0.513671875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022088824585087156
+    },
+    {
+      "abs_correlation": 0.02734375,
+      "approx_95ci_high": 0.5569659711867708,
+      "approx_95ci_low": 0.4703777788132292,
+      "bias": 0.013671875,
+      "correlation": 0.02734375,
+      "feedforward": false,
+      "input_difference": "w01.b25",
+      "input_difference_bits": [
+        [
+          1,
+          25
+        ]
+      ],
+      "matches": 263,
+      "output_mask": "w15.b18",
+      "output_mask_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "probability": 0.513671875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022088824585087156
+    },
+    {
+      "abs_correlation": 0.02734375,
+      "approx_95ci_high": 0.5569659711867708,
+      "approx_95ci_low": 0.4703777788132292,
+      "bias": 0.013671875,
+      "correlation": 0.02734375,
+      "feedforward": false,
+      "input_difference": "w05.b00+w10.b00",
+      "input_difference_bits": [
+        [
+          5,
+          0
+        ],
+        [
+          10,
+          0
+        ]
+      ],
+      "matches": 263,
+      "output_mask": "w03.b29",
+      "output_mask_bits": [
+        [
+          3,
+          29
+        ]
+      ],
+      "probability": 0.513671875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022088824585087156
+    },
+    {
+      "abs_correlation": 0.02734375,
+      "approx_95ci_high": 0.5569659711867708,
+      "approx_95ci_low": 0.4703777788132292,
+      "bias": 0.013671875,
+      "correlation": 0.02734375,
+      "feedforward": false,
+      "input_difference": "w05.b00+w10.b00",
+      "input_difference_bits": [
+        [
+          5,
+          0
+        ],
+        [
+          10,
+          0
+        ]
+      ],
+      "matches": 263,
+      "output_mask": "w10.b13",
+      "output_mask_bits": [
+        [
+          10,
+          13
+        ]
+      ],
+      "probability": 0.513671875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022088824585087156
+    },
+    {
+      "abs_correlation": 0.02734375,
+      "approx_95ci_high": 0.5296222211867708,
+      "approx_95ci_low": 0.4430340288132292,
+      "bias": -0.013671875,
+      "correlation": -0.02734375,
+      "feedforward": false,
+      "input_difference": "w08.b09",
+      "input_difference_bits": [
+        [
+          8,
+          9
+        ]
+      ],
+      "matches": 249,
+      "output_mask": "w00.b00+w01.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.486328125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022088824585087156
+    },
+    {
+      "abs_correlation": 0.02734375,
+      "approx_95ci_high": 0.5296222211867708,
+      "approx_95ci_low": 0.4430340288132292,
+      "bias": -0.013671875,
+      "correlation": -0.02734375,
+      "feedforward": false,
+      "input_difference": "w08.b09",
+      "input_difference_bits": [
+        [
+          8,
+          9
+        ]
+      ],
+      "matches": 249,
+      "output_mask": "w01.b00",
+      "output_mask_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.486328125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022088824585087156
+    },
+    {
+      "abs_correlation": 0.02734375,
+      "approx_95ci_high": 0.5569659711867708,
+      "approx_95ci_low": 0.4703777788132292,
+      "bias": 0.013671875,
+      "correlation": 0.02734375,
+      "feedforward": false,
+      "input_difference": "w09.b03",
+      "input_difference_bits": [
+        [
+          9,
+          3
+        ]
+      ],
+      "matches": 263,
+      "output_mask": "w08.b13+w12.b13",
+      "output_mask_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "probability": 0.513671875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022088824585087156
+    },
+    {
+      "abs_correlation": 0.02734375,
+      "approx_95ci_high": 0.5296222211867708,
+      "approx_95ci_low": 0.4430340288132292,
+      "bias": -0.013671875,
+      "correlation": -0.02734375,
+      "feedforward": false,
+      "input_difference": "w09.b28",
+      "input_difference_bits": [
+        [
+          9,
+          28
+        ]
+      ],
+      "matches": 249,
+      "output_mask": "w00.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "probability": 0.486328125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022088824585087156
+    },
+    {
+      "abs_correlation": 0.02734375,
+      "approx_95ci_high": 0.5296222211867708,
+      "approx_95ci_low": 0.4430340288132292,
+      "bias": -0.013671875,
+      "correlation": -0.02734375,
+      "feedforward": false,
+      "input_difference": "w15.b18",
+      "input_difference_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "matches": 249,
+      "output_mask": "w00.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "probability": 0.486328125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022088824585087156
+    },
+    {
+      "abs_correlation": 0.02734375,
+      "approx_95ci_high": 0.5569659711867708,
+      "approx_95ci_low": 0.4703777788132292,
+      "bias": 0.013671875,
+      "correlation": 0.02734375,
+      "feedforward": false,
+      "input_difference": "w15.b28",
+      "input_difference_bits": [
+        [
+          15,
+          28
+        ]
+      ],
+      "matches": 263,
+      "output_mask": "w05.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ]
+      ],
+      "probability": 0.513671875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022088824585087156
+    },
+    {
+      "abs_correlation": 0.0234375,
+      "approx_95ci_high": 0.5315796431871015,
+      "approx_95ci_low": 0.4449828568128985,
+      "bias": -0.01171875,
+      "correlation": -0.0234375,
+      "feedforward": false,
+      "input_difference": "w00.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "matches": 250,
+      "output_mask": "w05.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ]
+      ],
+      "probability": 0.48828125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209101693219465
+    },
+    {
+      "abs_correlation": 0.0234375,
+      "approx_95ci_high": 0.5315796431871015,
+      "approx_95ci_low": 0.4449828568128985,
+      "bias": -0.01171875,
+      "correlation": -0.0234375,
+      "feedforward": false,
+      "input_difference": "w01.b25",
+      "input_difference_bits": [
+        [
+          1,
+          25
+        ]
+      ],
+      "matches": 250,
+      "output_mask": "w05.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ]
+      ],
+      "probability": 0.48828125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209101693219465
+    },
+    {
+      "abs_correlation": 0.0234375,
+      "approx_95ci_high": 0.5550171431871015,
+      "approx_95ci_low": 0.4684203568128985,
+      "bias": 0.01171875,
+      "correlation": 0.0234375,
+      "feedforward": false,
+      "input_difference": "w05.b00+w10.b00",
+      "input_difference_bits": [
+        [
+          5,
+          0
+        ],
+        [
+          10,
+          0
+        ]
+      ],
+      "matches": 262,
+      "output_mask": "w13.b00",
+      "output_mask_bits": [
+        [
+          13,
+          0
+        ]
+      ],
+      "probability": 0.51171875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209101693219465
+    },
+    {
+      "abs_correlation": 0.0234375,
+      "approx_95ci_high": 0.5315796431871015,
+      "approx_95ci_low": 0.4449828568128985,
+      "bias": -0.01171875,
+      "correlation": -0.0234375,
+      "feedforward": false,
+      "input_difference": "w05.b07",
+      "input_difference_bits": [
+        [
+          5,
+          7
+        ]
+      ],
+      "matches": 250,
+      "output_mask": "w12.b04",
+      "output_mask_bits": [
+        [
+          12,
+          4
+        ]
+      ],
+      "probability": 0.48828125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209101693219465
+    },
+    {
+      "abs_correlation": 0.0234375,
+      "approx_95ci_high": 0.5315796431871015,
+      "approx_95ci_low": 0.4449828568128985,
+      "bias": -0.01171875,
+      "correlation": -0.0234375,
+      "feedforward": false,
+      "input_difference": "w08.b13+w12.b13",
+      "input_difference_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 250,
+      "output_mask": "w00.b07+w04.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "probability": 0.48828125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209101693219465
+    },
+    {
+      "abs_correlation": 0.0234375,
+      "approx_95ci_high": 0.5550171431871015,
+      "approx_95ci_low": 0.4684203568128985,
+      "bias": 0.01171875,
+      "correlation": 0.0234375,
+      "feedforward": false,
+      "input_difference": "w08.b13+w12.b13",
+      "input_difference_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 262,
+      "output_mask": "w03.b29",
+      "output_mask_bits": [
+        [
+          3,
+          29
+        ]
+      ],
+      "probability": 0.51171875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209101693219465
+    },
+    {
+      "abs_correlation": 0.0234375,
+      "approx_95ci_high": 0.5550171431871015,
+      "approx_95ci_low": 0.4684203568128985,
+      "bias": 0.01171875,
+      "correlation": 0.0234375,
+      "feedforward": false,
+      "input_difference": "w08.b13+w12.b13",
+      "input_difference_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 262,
+      "output_mask": "w10.b13",
+      "output_mask_bits": [
+        [
+          10,
+          13
+        ]
+      ],
+      "probability": 0.51171875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209101693219465
+    },
+    {
+      "abs_correlation": 0.0234375,
+      "approx_95ci_high": 0.5315796431871015,
+      "approx_95ci_low": 0.4449828568128985,
+      "bias": -0.01171875,
+      "correlation": -0.0234375,
+      "feedforward": false,
+      "input_difference": "w09.b28",
+      "input_difference_bits": [
+        [
+          9,
+          28
+        ]
+      ],
+      "matches": 250,
+      "output_mask": "w01.b00",
+      "output_mask_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.48828125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209101693219465
+    },
+    {
+      "abs_correlation": 0.0234375,
+      "approx_95ci_high": 0.5550171431871015,
+      "approx_95ci_low": 0.4684203568128985,
+      "bias": 0.01171875,
+      "correlation": 0.0234375,
+      "feedforward": false,
+      "input_difference": "w15.b18",
+      "input_difference_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "matches": 262,
+      "output_mask": "w10.b13",
+      "output_mask_bits": [
+        [
+          10,
+          13
+        ]
+      ],
+      "probability": 0.51171875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209101693219465
+    },
+    {
+      "abs_correlation": 0.0234375,
+      "approx_95ci_high": 0.5550171431871015,
+      "approx_95ci_low": 0.4684203568128985,
+      "bias": 0.01171875,
+      "correlation": 0.0234375,
+      "feedforward": false,
+      "input_difference": "w15.b18",
+      "input_difference_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "matches": 262,
+      "output_mask": "w15.b18",
+      "output_mask_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "probability": 0.51171875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209101693219465
+    },
+    {
+      "abs_correlation": 0.0234375,
+      "approx_95ci_high": 0.5315796431871015,
+      "approx_95ci_low": 0.4449828568128985,
+      "bias": -0.01171875,
+      "correlation": -0.0234375,
+      "feedforward": false,
+      "input_difference": "w15.b28",
+      "input_difference_bits": [
+        [
+          15,
+          28
+        ]
+      ],
+      "matches": 250,
+      "output_mask": "w08.b13+w12.b13",
+      "output_mask_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "probability": 0.48828125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209101693219465
+    },
+    {
+      "abs_correlation": 0.0234375,
+      "approx_95ci_high": 0.5315796431871015,
+      "approx_95ci_low": 0.4449828568128985,
+      "bias": -0.01171875,
+      "correlation": -0.0234375,
+      "feedforward": false,
+      "input_difference": "w15.b28",
+      "input_difference_bits": [
+        [
+          15,
+          28
+        ]
+      ],
+      "matches": 250,
+      "output_mask": "w10.b13",
+      "output_mask_bits": [
+        [
+          10,
+          13
+        ]
+      ],
+      "probability": 0.48828125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209101693219465
+    },
+    {
+      "abs_correlation": 0.0234375,
+      "approx_95ci_high": 0.5315796431871015,
+      "approx_95ci_low": 0.4449828568128985,
+      "bias": -0.01171875,
+      "correlation": -0.0234375,
+      "feedforward": false,
+      "input_difference": "w15.b28",
+      "input_difference_bits": [
+        [
+          15,
+          28
+        ]
+      ],
+      "matches": 250,
+      "output_mask": "w12.b23",
+      "output_mask_bits": [
+        [
+          12,
+          23
+        ]
+      ],
+      "probability": 0.48828125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209101693219465
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.533536403777408,
+      "approx_95ci_low": 0.446932346222592,
+      "bias": -0.009765625,
+      "correlation": -0.01953125,
+      "feedforward": false,
+      "input_difference": "w00.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "matches": 251,
+      "output_mask": "w00.b07+w04.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "probability": 0.490234375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.533536403777408,
+      "approx_95ci_low": 0.446932346222592,
+      "bias": -0.009765625,
+      "correlation": -0.01953125,
+      "feedforward": false,
+      "input_difference": "w00.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "matches": 251,
+      "output_mask": "w13.b19",
+      "output_mask_bits": [
+        [
+          13,
+          19
+        ]
+      ],
+      "probability": 0.490234375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.533536403777408,
+      "approx_95ci_low": 0.446932346222592,
+      "bias": -0.009765625,
+      "correlation": -0.01953125,
+      "feedforward": false,
+      "input_difference": "w00.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "matches": 251,
+      "output_mask": "w15.b18",
+      "output_mask_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "probability": 0.490234375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.553067653777408,
+      "approx_95ci_low": 0.466463596222592,
+      "bias": 0.009765625,
+      "correlation": 0.01953125,
+      "feedforward": false,
+      "input_difference": "w00.b00+w01.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 261,
+      "output_mask": "w00.b07+w04.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "probability": 0.509765625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.553067653777408,
+      "approx_95ci_low": 0.466463596222592,
+      "bias": 0.009765625,
+      "correlation": 0.01953125,
+      "feedforward": false,
+      "input_difference": "w00.b00+w01.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 261,
+      "output_mask": "w10.b13",
+      "output_mask_bits": [
+        [
+          10,
+          13
+        ]
+      ],
+      "probability": 0.509765625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.553067653777408,
+      "approx_95ci_low": 0.466463596222592,
+      "bias": 0.009765625,
+      "correlation": 0.01953125,
+      "feedforward": false,
+      "input_difference": "w00.b07+w04.b07",
+      "input_difference_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "matches": 261,
+      "output_mask": "w13.b00",
+      "output_mask_bits": [
+        [
+          13,
+          0
+        ]
+      ],
+      "probability": 0.509765625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.533536403777408,
+      "approx_95ci_low": 0.446932346222592,
+      "bias": -0.009765625,
+      "correlation": -0.01953125,
+      "feedforward": false,
+      "input_difference": "w01.b00",
+      "input_difference_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 251,
+      "output_mask": "w05.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ]
+      ],
+      "probability": 0.490234375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.553067653777408,
+      "approx_95ci_low": 0.466463596222592,
+      "bias": 0.009765625,
+      "correlation": 0.01953125,
+      "feedforward": false,
+      "input_difference": "w01.b25",
+      "input_difference_bits": [
+        [
+          1,
+          25
+        ]
+      ],
+      "matches": 261,
+      "output_mask": "w00.b00+w01.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.509765625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.533536403777408,
+      "approx_95ci_low": 0.446932346222592,
+      "bias": -0.009765625,
+      "correlation": -0.01953125,
+      "feedforward": false,
+      "input_difference": "w01.b25",
+      "input_difference_bits": [
+        [
+          1,
+          25
+        ]
+      ],
+      "matches": 251,
+      "output_mask": "w10.b13",
+      "output_mask_bits": [
+        [
+          10,
+          13
+        ]
+      ],
+      "probability": 0.490234375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.533536403777408,
+      "approx_95ci_low": 0.446932346222592,
+      "bias": -0.009765625,
+      "correlation": -0.01953125,
+      "feedforward": false,
+      "input_difference": "w04.b00",
+      "input_difference_bits": [
+        [
+          4,
+          0
+        ]
+      ],
+      "matches": 251,
+      "output_mask": "w01.b00",
+      "output_mask_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.490234375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.533536403777408,
+      "approx_95ci_low": 0.446932346222592,
+      "bias": -0.009765625,
+      "correlation": -0.01953125,
+      "feedforward": false,
+      "input_difference": "w04.b00",
+      "input_difference_bits": [
+        [
+          4,
+          0
+        ]
+      ],
+      "matches": 251,
+      "output_mask": "w13.b00",
+      "output_mask_bits": [
+        [
+          13,
+          0
+        ]
+      ],
+      "probability": 0.490234375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.553067653777408,
+      "approx_95ci_low": 0.466463596222592,
+      "bias": 0.009765625,
+      "correlation": 0.01953125,
+      "feedforward": false,
+      "input_difference": "w04.b00",
+      "input_difference_bits": [
+        [
+          4,
+          0
+        ]
+      ],
+      "matches": 261,
+      "output_mask": "w15.b18",
+      "output_mask_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "probability": 0.509765625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.533536403777408,
+      "approx_95ci_low": 0.446932346222592,
+      "bias": -0.009765625,
+      "correlation": -0.01953125,
+      "feedforward": false,
+      "input_difference": "w05.b00+w10.b00",
+      "input_difference_bits": [
+        [
+          5,
+          0
+        ],
+        [
+          10,
+          0
+        ]
+      ],
+      "matches": 251,
+      "output_mask": "w05.b09+w10.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "probability": 0.490234375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.533536403777408,
+      "approx_95ci_low": 0.446932346222592,
+      "bias": -0.009765625,
+      "correlation": -0.01953125,
+      "feedforward": false,
+      "input_difference": "w05.b07",
+      "input_difference_bits": [
+        [
+          5,
+          7
+        ]
+      ],
+      "matches": 251,
+      "output_mask": "w15.b18",
+      "output_mask_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "probability": 0.490234375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.533536403777408,
+      "approx_95ci_low": 0.446932346222592,
+      "bias": -0.009765625,
+      "correlation": -0.01953125,
+      "feedforward": false,
+      "input_difference": "w08.b09",
+      "input_difference_bits": [
+        [
+          8,
+          9
+        ]
+      ],
+      "matches": 251,
+      "output_mask": "w07.b23",
+      "output_mask_bits": [
+        [
+          7,
+          23
+        ]
+      ],
+      "probability": 0.490234375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.553067653777408,
+      "approx_95ci_low": 0.466463596222592,
+      "bias": 0.009765625,
+      "correlation": 0.01953125,
+      "feedforward": false,
+      "input_difference": "w08.b13+w12.b13",
+      "input_difference_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 261,
+      "output_mask": "w00.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ]
+      ],
+      "probability": 0.509765625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.553067653777408,
+      "approx_95ci_low": 0.466463596222592,
+      "bias": 0.009765625,
+      "correlation": 0.01953125,
+      "feedforward": false,
+      "input_difference": "w09.b28",
+      "input_difference_bits": [
+        [
+          9,
+          28
+        ]
+      ],
+      "matches": 261,
+      "output_mask": "w00.b07+w04.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "probability": 0.509765625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.553067653777408,
+      "approx_95ci_low": 0.466463596222592,
+      "bias": 0.009765625,
+      "correlation": 0.01953125,
+      "feedforward": false,
+      "input_difference": "w12.b13",
+      "input_difference_bits": [
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 261,
+      "output_mask": "w05.b09+w10.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "probability": 0.509765625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.553067653777408,
+      "approx_95ci_low": 0.466463596222592,
+      "bias": 0.009765625,
+      "correlation": 0.01953125,
+      "feedforward": false,
+      "input_difference": "w12.b13",
+      "input_difference_bits": [
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 261,
+      "output_mask": "w08.b13+w12.b13",
+      "output_mask_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "probability": 0.509765625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.533536403777408,
+      "approx_95ci_low": 0.446932346222592,
+      "bias": -0.009765625,
+      "correlation": -0.01953125,
+      "feedforward": false,
+      "input_difference": "w15.b18",
+      "input_difference_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "matches": 251,
+      "output_mask": "w01.b00",
+      "output_mask_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.490234375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.553067653777408,
+      "approx_95ci_low": 0.466463596222592,
+      "bias": 0.009765625,
+      "correlation": 0.01953125,
+      "feedforward": false,
+      "input_difference": "w15.b18",
+      "input_difference_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "matches": 261,
+      "output_mask": "w05.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ]
+      ],
+      "probability": 0.509765625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.553067653777408,
+      "approx_95ci_low": 0.466463596222592,
+      "bias": 0.009765625,
+      "correlation": 0.01953125,
+      "feedforward": false,
+      "input_difference": "w15.b28",
+      "input_difference_bits": [
+        [
+          15,
+          28
+        ]
+      ],
+      "matches": 261,
+      "output_mask": "w00.b07+w04.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "probability": 0.509765625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.01953125,
+      "approx_95ci_high": 0.553067653777408,
+      "approx_95ci_low": 0.466463596222592,
+      "bias": 0.009765625,
+      "correlation": 0.01953125,
+      "feedforward": false,
+      "input_difference": "w15.b28",
+      "input_difference_bits": [
+        [
+          15,
+          28
+        ]
+      ],
+      "matches": 261,
+      "output_mask": "w12.b04",
+      "output_mask_bits": [
+        [
+          12,
+          4
+        ]
+      ],
+      "probability": 0.509765625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209287182520817
+    },
+    {
+      "abs_correlation": 0.015625,
+      "approx_95ci_high": 0.5354925031242727,
+      "approx_95ci_low": 0.4488824968757274,
+      "bias": -0.0078125,
+      "correlation": -0.015625,
+      "feedforward": false,
+      "input_difference": "w00.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "matches": 252,
+      "output_mask": "w01.b00",
+      "output_mask_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.4921875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022094389349118684
+    },
+    {
+      "abs_correlation": 0.015625,
+      "approx_95ci_high": 0.5354925031242727,
+      "approx_95ci_low": 0.4488824968757274,
+      "bias": -0.0078125,
+      "correlation": -0.015625,
+      "feedforward": false,
+      "input_difference": "w00.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "matches": 252,
+      "output_mask": "w12.b04",
+      "output_mask_bits": [
+        [
+          12,
+          4
+        ]
+      ],
+      "probability": 0.4921875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022094389349118684
+    },
+    {
+      "abs_correlation": 0.015625,
+      "approx_95ci_high": 0.5354925031242727,
+      "approx_95ci_low": 0.4488824968757274,
+      "bias": -0.0078125,
+      "correlation": -0.015625,
+      "feedforward": false,
+      "input_difference": "w00.b00+w01.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 252,
+      "output_mask": "w12.b04",
+      "output_mask_bits": [
+        [
+          12,
+          4
+        ]
+      ],
+      "probability": 0.4921875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022094389349118684
+    },
+    {
+      "abs_correlation": 0.015625,
+      "approx_95ci_high": 0.5511175031242727,
+      "approx_95ci_low": 0.4645074968757274,
+      "bias": 0.0078125,
+      "correlation": 0.015625,
+      "feedforward": false,
+      "input_difference": "w00.b07+w04.b07",
+      "input_difference_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "matches": 260,
+      "output_mask": "w05.b09+w10.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "probability": 0.5078125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022094389349118684
+    },
+    {
+      "abs_correlation": 0.015625,
+      "approx_95ci_high": 0.5354925031242727,
+      "approx_95ci_low": 0.4488824968757274,
+      "bias": -0.0078125,
+      "correlation": -0.015625,
+      "feedforward": false,
+      "input_difference": "w01.b00",
+      "input_difference_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 252,
+      "output_mask": "w12.b23",
+      "output_mask_bits": [
+        [
+          12,
+          23
+        ]
+      ],
+      "probability": 0.4921875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022094389349118684
+    },
+    {
+      "abs_correlation": 0.015625,
+      "approx_95ci_high": 0.5511175031242727,
+      "approx_95ci_low": 0.4645074968757274,
+      "bias": 0.0078125,
+      "correlation": 0.015625,
+      "feedforward": false,
+      "input_difference": "w04.b00",
+      "input_difference_bits": [
+        [
+          4,
+          0
+        ]
+      ],
+      "matches": 260,
+      "output_mask": "w12.b04",
+      "output_mask_bits": [
+        [
+          12,
+          4
+        ]
+      ],
+      "probability": 0.5078125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022094389349118684
+    },
+    {
+      "abs_correlation": 0.015625,
+      "approx_95ci_high": 0.5354925031242727,
+      "approx_95ci_low": 0.4488824968757274,
+      "bias": -0.0078125,
+      "correlation": -0.015625,
+      "feedforward": false,
+      "input_difference": "w05.b00+w10.b00",
+      "input_difference_bits": [
+        [
+          5,
+          0
+        ],
+        [
+          10,
+          0
+        ]
+      ],
+      "matches": 252,
+      "output_mask": "w00.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ]
+      ],
+      "probability": 0.4921875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022094389349118684
+    },
+    {
+      "abs_correlation": 0.015625,
+      "approx_95ci_high": 0.5511175031242727,
+      "approx_95ci_low": 0.4645074968757274,
+      "bias": 0.0078125,
+      "correlation": 0.015625,
+      "feedforward": false,
+      "input_difference": "w08.b09",
+      "input_difference_bits": [
+        [
+          8,
+          9
+        ]
+      ],
+      "matches": 260,
+      "output_mask": "w08.b13+w12.b13",
+      "output_mask_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "probability": 0.5078125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022094389349118684
+    },
+    {
+      "abs_correlation": 0.015625,
+      "approx_95ci_high": 0.5511175031242727,
+      "approx_95ci_low": 0.4645074968757274,
+      "bias": 0.0078125,
+      "correlation": 0.015625,
+      "feedforward": false,
+      "input_difference": "w08.b09",
+      "input_difference_bits": [
+        [
+          8,
+          9
+        ]
+      ],
+      "matches": 260,
+      "output_mask": "w12.b04",
+      "output_mask_bits": [
+        [
+          12,
+          4
+        ]
+      ],
+      "probability": 0.5078125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022094389349118684
+    },
+    {
+      "abs_correlation": 0.015625,
+      "approx_95ci_high": 0.5354925031242727,
+      "approx_95ci_low": 0.4488824968757274,
+      "bias": -0.0078125,
+      "correlation": -0.015625,
+      "feedforward": false,
+      "input_difference": "w09.b03",
+      "input_difference_bits": [
+        [
+          9,
+          3
+        ]
+      ],
+      "matches": 252,
+      "output_mask": "w13.b00",
+      "output_mask_bits": [
+        [
+          13,
+          0
+        ]
+      ],
+      "probability": 0.4921875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022094389349118684
+    },
+    {
+      "abs_correlation": 0.015625,
+      "approx_95ci_high": 0.5354925031242727,
+      "approx_95ci_low": 0.4488824968757274,
+      "bias": -0.0078125,
+      "correlation": -0.015625,
+      "feedforward": false,
+      "input_difference": "w09.b28",
+      "input_difference_bits": [
+        [
+          9,
+          28
+        ]
+      ],
+      "matches": 252,
+      "output_mask": "w08.b13+w12.b13",
+      "output_mask_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "probability": 0.4921875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022094389349118684
+    },
+    {
+      "abs_correlation": 0.015625,
+      "approx_95ci_high": 0.5354925031242727,
+      "approx_95ci_low": 0.4488824968757274,
+      "bias": -0.0078125,
+      "correlation": -0.015625,
+      "feedforward": false,
+      "input_difference": "w15.b18",
+      "input_difference_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "matches": 252,
+      "output_mask": "w13.b19",
+      "output_mask_bits": [
+        [
+          13,
+          19
+        ]
+      ],
+      "probability": 0.4921875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022094389349118684
+    },
+    {
+      "abs_correlation": 0.015625,
+      "approx_95ci_high": 0.5354925031242727,
+      "approx_95ci_low": 0.4488824968757274,
+      "bias": -0.0078125,
+      "correlation": -0.015625,
+      "feedforward": false,
+      "input_difference": "w15.b28",
+      "input_difference_bits": [
+        [
+          15,
+          28
+        ]
+      ],
+      "matches": 252,
+      "output_mask": "w13.b00",
+      "output_mask_bits": [
+        [
+          13,
+          0
+        ]
+      ],
+      "probability": 0.4921875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022094389349118684
+    },
+    {
+      "abs_correlation": 0.01171875,
+      "approx_95ci_high": 0.5374479413639379,
+      "approx_95ci_low": 0.450833308636062,
+      "bias": -0.005859375,
+      "correlation": -0.01171875,
+      "feedforward": false,
+      "input_difference": "w00.b07+w04.b07",
+      "input_difference_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "matches": 253,
+      "output_mask": "w03.b29",
+      "output_mask_bits": [
+        [
+          3,
+          29
+        ]
+      ],
+      "probability": 0.494140625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209556957343774
+    },
+    {
+      "abs_correlation": 0.01171875,
+      "approx_95ci_high": 0.5491666913639379,
+      "approx_95ci_low": 0.462552058636062,
+      "bias": 0.005859375,
+      "correlation": 0.01171875,
+      "feedforward": false,
+      "input_difference": "w00.b07+w04.b07",
+      "input_difference_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "matches": 259,
+      "output_mask": "w07.b23",
+      "output_mask_bits": [
+        [
+          7,
+          23
+        ]
+      ],
+      "probability": 0.505859375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209556957343774
+    },
+    {
+      "abs_correlation": 0.01171875,
+      "approx_95ci_high": 0.5491666913639379,
+      "approx_95ci_low": 0.462552058636062,
+      "bias": 0.005859375,
+      "correlation": 0.01171875,
+      "feedforward": false,
+      "input_difference": "w01.b00",
+      "input_difference_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 259,
+      "output_mask": "w00.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "probability": 0.505859375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209556957343774
+    },
+    {
+      "abs_correlation": 0.01171875,
+      "approx_95ci_high": 0.5491666913639379,
+      "approx_95ci_low": 0.462552058636062,
+      "bias": 0.005859375,
+      "correlation": 0.01171875,
+      "feedforward": false,
+      "input_difference": "w01.b00",
+      "input_difference_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 259,
+      "output_mask": "w05.b09+w10.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "probability": 0.505859375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209556957343774
+    },
+    {
+      "abs_correlation": 0.01171875,
+      "approx_95ci_high": 0.5374479413639379,
+      "approx_95ci_low": 0.450833308636062,
+      "bias": -0.005859375,
+      "correlation": -0.01171875,
+      "feedforward": false,
+      "input_difference": "w01.b00",
+      "input_difference_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 253,
+      "output_mask": "w10.b13",
+      "output_mask_bits": [
+        [
+          10,
+          13
+        ]
+      ],
+      "probability": 0.494140625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209556957343774
+    },
+    {
+      "abs_correlation": 0.01171875,
+      "approx_95ci_high": 0.5374479413639379,
+      "approx_95ci_low": 0.450833308636062,
+      "bias": -0.005859375,
+      "correlation": -0.01171875,
+      "feedforward": false,
+      "input_difference": "w01.b25",
+      "input_difference_bits": [
+        [
+          1,
+          25
+        ]
+      ],
+      "matches": 253,
+      "output_mask": "w00.b07+w04.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "probability": 0.494140625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209556957343774
+    },
+    {
+      "abs_correlation": 0.01171875,
+      "approx_95ci_high": 0.5374479413639379,
+      "approx_95ci_low": 0.450833308636062,
+      "bias": -0.005859375,
+      "correlation": -0.01171875,
+      "feedforward": false,
+      "input_difference": "w05.b07",
+      "input_difference_bits": [
+        [
+          5,
+          7
+        ]
+      ],
+      "matches": 253,
+      "output_mask": "w12.b23",
+      "output_mask_bits": [
+        [
+          12,
+          23
+        ]
+      ],
+      "probability": 0.494140625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209556957343774
+    },
+    {
+      "abs_correlation": 0.01171875,
+      "approx_95ci_high": 0.5491666913639379,
+      "approx_95ci_low": 0.462552058636062,
+      "bias": 0.005859375,
+      "correlation": 0.01171875,
+      "feedforward": false,
+      "input_difference": "w06.b24",
+      "input_difference_bits": [
+        [
+          6,
+          24
+        ]
+      ],
+      "matches": 259,
+      "output_mask": "w13.b00",
+      "output_mask_bits": [
+        [
+          13,
+          0
+        ]
+      ],
+      "probability": 0.505859375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209556957343774
+    },
+    {
+      "abs_correlation": 0.01171875,
+      "approx_95ci_high": 0.5491666913639379,
+      "approx_95ci_low": 0.462552058636062,
+      "bias": 0.005859375,
+      "correlation": 0.01171875,
+      "feedforward": false,
+      "input_difference": "w08.b09",
+      "input_difference_bits": [
+        [
+          8,
+          9
+        ]
+      ],
+      "matches": 259,
+      "output_mask": "w12.b23",
+      "output_mask_bits": [
+        [
+          12,
+          23
+        ]
+      ],
+      "probability": 0.505859375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209556957343774
+    },
+    {
+      "abs_correlation": 0.01171875,
+      "approx_95ci_high": 0.5491666913639379,
+      "approx_95ci_low": 0.462552058636062,
+      "bias": 0.005859375,
+      "correlation": 0.01171875,
+      "feedforward": false,
+      "input_difference": "w08.b09",
+      "input_difference_bits": [
+        [
+          8,
+          9
+        ]
+      ],
+      "matches": 259,
+      "output_mask": "w15.b18",
+      "output_mask_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "probability": 0.505859375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209556957343774
+    },
+    {
+      "abs_correlation": 0.01171875,
+      "approx_95ci_high": 0.5491666913639379,
+      "approx_95ci_low": 0.462552058636062,
+      "bias": 0.005859375,
+      "correlation": 0.01171875,
+      "feedforward": false,
+      "input_difference": "w08.b13+w12.b13",
+      "input_difference_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 259,
+      "output_mask": "w00.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "probability": 0.505859375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209556957343774
+    },
+    {
+      "abs_correlation": 0.01171875,
+      "approx_95ci_high": 0.5374479413639379,
+      "approx_95ci_low": 0.450833308636062,
+      "bias": -0.005859375,
+      "correlation": -0.01171875,
+      "feedforward": false,
+      "input_difference": "w09.b28",
+      "input_difference_bits": [
+        [
+          9,
+          28
+        ]
+      ],
+      "matches": 253,
+      "output_mask": "w07.b23",
+      "output_mask_bits": [
+        [
+          7,
+          23
+        ]
+      ],
+      "probability": 0.494140625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209556957343774
+    },
+    {
+      "abs_correlation": 0.01171875,
+      "approx_95ci_high": 0.5374479413639379,
+      "approx_95ci_low": 0.450833308636062,
+      "bias": -0.005859375,
+      "correlation": -0.01171875,
+      "feedforward": false,
+      "input_difference": "w09.b28",
+      "input_difference_bits": [
+        [
+          9,
+          28
+        ]
+      ],
+      "matches": 253,
+      "output_mask": "w12.b23",
+      "output_mask_bits": [
+        [
+          12,
+          23
+        ]
+      ],
+      "probability": 0.494140625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209556957343774
+    },
+    {
+      "abs_correlation": 0.01171875,
+      "approx_95ci_high": 0.5374479413639379,
+      "approx_95ci_low": 0.450833308636062,
+      "bias": -0.005859375,
+      "correlation": -0.01171875,
+      "feedforward": false,
+      "input_difference": "w09.b28",
+      "input_difference_bits": [
+        [
+          9,
+          28
+        ]
+      ],
+      "matches": 253,
+      "output_mask": "w13.b19",
+      "output_mask_bits": [
+        [
+          13,
+          19
+        ]
+      ],
+      "probability": 0.494140625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209556957343774
+    },
+    {
+      "abs_correlation": 0.01171875,
+      "approx_95ci_high": 0.5491666913639379,
+      "approx_95ci_low": 0.462552058636062,
+      "bias": 0.005859375,
+      "correlation": 0.01171875,
+      "feedforward": false,
+      "input_difference": "w15.b28",
+      "input_difference_bits": [
+        [
+          15,
+          28
+        ]
+      ],
+      "matches": 259,
+      "output_mask": "w00.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ]
+      ],
+      "probability": 0.505859375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209556957343774
+    },
+    {
+      "abs_correlation": 0.0078125,
+      "approx_95ci_high": 0.5394027186023382,
+      "approx_95ci_low": 0.4527847813976618,
+      "bias": -0.00390625,
+      "correlation": -0.0078125,
+      "feedforward": false,
+      "input_difference": "w00.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "matches": 254,
+      "output_mask": "w05.b09+w10.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "probability": 0.49609375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096412552213365
+    },
+    {
+      "abs_correlation": 0.0078125,
+      "approx_95ci_high": 0.5394027186023382,
+      "approx_95ci_low": 0.4527847813976618,
+      "bias": -0.00390625,
+      "correlation": -0.0078125,
+      "feedforward": false,
+      "input_difference": "w00.b00+w01.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 254,
+      "output_mask": "w07.b23",
+      "output_mask_bits": [
+        [
+          7,
+          23
+        ]
+      ],
+      "probability": 0.49609375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096412552213365
+    },
+    {
+      "abs_correlation": 0.0078125,
+      "approx_95ci_high": 0.5394027186023382,
+      "approx_95ci_low": 0.4527847813976618,
+      "bias": -0.00390625,
+      "correlation": -0.0078125,
+      "feedforward": false,
+      "input_difference": "w00.b00+w01.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 254,
+      "output_mask": "w13.b19",
+      "output_mask_bits": [
+        [
+          13,
+          19
+        ]
+      ],
+      "probability": 0.49609375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096412552213365
+    },
+    {
+      "abs_correlation": 0.0078125,
+      "approx_95ci_high": 0.5472152186023382,
+      "approx_95ci_low": 0.4605972813976618,
+      "bias": 0.00390625,
+      "correlation": 0.0078125,
+      "feedforward": false,
+      "input_difference": "w00.b07+w04.b07",
+      "input_difference_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "matches": 258,
+      "output_mask": "w15.b18",
+      "output_mask_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "probability": 0.50390625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096412552213365
+    },
+    {
+      "abs_correlation": 0.0078125,
+      "approx_95ci_high": 0.5394027186023382,
+      "approx_95ci_low": 0.4527847813976618,
+      "bias": -0.00390625,
+      "correlation": -0.0078125,
+      "feedforward": false,
+      "input_difference": "w01.b25",
+      "input_difference_bits": [
+        [
+          1,
+          25
+        ]
+      ],
+      "matches": 254,
+      "output_mask": "w00.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "probability": 0.49609375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096412552213365
+    },
+    {
+      "abs_correlation": 0.0078125,
+      "approx_95ci_high": 0.5472152186023382,
+      "approx_95ci_low": 0.4605972813976618,
+      "bias": 0.00390625,
+      "correlation": 0.0078125,
+      "feedforward": false,
+      "input_difference": "w04.b00",
+      "input_difference_bits": [
+        [
+          4,
+          0
+        ]
+      ],
+      "matches": 258,
+      "output_mask": "w00.b00+w01.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.50390625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096412552213365
+    },
+    {
+      "abs_correlation": 0.0078125,
+      "approx_95ci_high": 0.5472152186023382,
+      "approx_95ci_low": 0.4605972813976618,
+      "bias": 0.00390625,
+      "correlation": 0.0078125,
+      "feedforward": false,
+      "input_difference": "w05.b00+w10.b00",
+      "input_difference_bits": [
+        [
+          5,
+          0
+        ],
+        [
+          10,
+          0
+        ]
+      ],
+      "matches": 258,
+      "output_mask": "w00.b00+w01.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.50390625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096412552213365
+    },
+    {
+      "abs_correlation": 0.0078125,
+      "approx_95ci_high": 0.5394027186023382,
+      "approx_95ci_low": 0.4527847813976618,
+      "bias": -0.00390625,
+      "correlation": -0.0078125,
+      "feedforward": false,
+      "input_difference": "w05.b07",
+      "input_difference_bits": [
+        [
+          5,
+          7
+        ]
+      ],
+      "matches": 254,
+      "output_mask": "w00.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ]
+      ],
+      "probability": 0.49609375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096412552213365
+    },
+    {
+      "abs_correlation": 0.0078125,
+      "approx_95ci_high": 0.5472152186023382,
+      "approx_95ci_low": 0.4605972813976618,
+      "bias": 0.00390625,
+      "correlation": 0.0078125,
+      "feedforward": false,
+      "input_difference": "w06.b24",
+      "input_difference_bits": [
+        [
+          6,
+          24
+        ]
+      ],
+      "matches": 258,
+      "output_mask": "w12.b04",
+      "output_mask_bits": [
+        [
+          12,
+          4
+        ]
+      ],
+      "probability": 0.50390625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096412552213365
+    },
+    {
+      "abs_correlation": 0.0078125,
+      "approx_95ci_high": 0.5394027186023382,
+      "approx_95ci_low": 0.4527847813976618,
+      "bias": -0.00390625,
+      "correlation": -0.0078125,
+      "feedforward": false,
+      "input_difference": "w08.b09",
+      "input_difference_bits": [
+        [
+          8,
+          9
+        ]
+      ],
+      "matches": 254,
+      "output_mask": "w03.b29",
+      "output_mask_bits": [
+        [
+          3,
+          29
+        ]
+      ],
+      "probability": 0.49609375,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096412552213365
+    },
+    {
+      "abs_correlation": 0.0078125,
+      "approx_95ci_high": 0.5472152186023382,
+      "approx_95ci_low": 0.4605972813976618,
+      "bias": 0.00390625,
+      "correlation": 0.0078125,
+      "feedforward": false,
+      "input_difference": "w08.b13+w12.b13",
+      "input_difference_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 258,
+      "output_mask": "w00.b00+w01.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.50390625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096412552213365
+    },
+    {
+      "abs_correlation": 0.0078125,
+      "approx_95ci_high": 0.5472152186023382,
+      "approx_95ci_low": 0.4605972813976618,
+      "bias": 0.00390625,
+      "correlation": 0.0078125,
+      "feedforward": false,
+      "input_difference": "w09.b03",
+      "input_difference_bits": [
+        [
+          9,
+          3
+        ]
+      ],
+      "matches": 258,
+      "output_mask": "w05.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ]
+      ],
+      "probability": 0.50390625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096412552213365
+    },
+    {
+      "abs_correlation": 0.0078125,
+      "approx_95ci_high": 0.5472152186023382,
+      "approx_95ci_low": 0.4605972813976618,
+      "bias": 0.00390625,
+      "correlation": 0.0078125,
+      "feedforward": false,
+      "input_difference": "w09.b03",
+      "input_difference_bits": [
+        [
+          9,
+          3
+        ]
+      ],
+      "matches": 258,
+      "output_mask": "w13.b19",
+      "output_mask_bits": [
+        [
+          13,
+          19
+        ]
+      ],
+      "probability": 0.50390625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096412552213365
+    },
+    {
+      "abs_correlation": 0.0078125,
+      "approx_95ci_high": 0.5472152186023382,
+      "approx_95ci_low": 0.4605972813976618,
+      "bias": 0.00390625,
+      "correlation": 0.0078125,
+      "feedforward": false,
+      "input_difference": "w09.b03",
+      "input_difference_bits": [
+        [
+          9,
+          3
+        ]
+      ],
+      "matches": 258,
+      "output_mask": "w15.b18",
+      "output_mask_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "probability": 0.50390625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096412552213365
+    },
+    {
+      "abs_correlation": 0.0078125,
+      "approx_95ci_high": 0.5472152186023382,
+      "approx_95ci_low": 0.4605972813976618,
+      "bias": 0.00390625,
+      "correlation": 0.0078125,
+      "feedforward": false,
+      "input_difference": "w12.b13",
+      "input_difference_bits": [
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 258,
+      "output_mask": "w00.b00+w01.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.50390625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096412552213365
+    },
+    {
+      "abs_correlation": 0.0078125,
+      "approx_95ci_high": 0.5472152186023382,
+      "approx_95ci_low": 0.4605972813976618,
+      "bias": 0.00390625,
+      "correlation": 0.0078125,
+      "feedforward": false,
+      "input_difference": "w15.b18",
+      "input_difference_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "matches": 258,
+      "output_mask": "w07.b23",
+      "output_mask_bits": [
+        [
+          7,
+          23
+        ]
+      ],
+      "probability": 0.50390625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096412552213365
+    },
+    {
+      "abs_correlation": 0.0078125,
+      "approx_95ci_high": 0.5472152186023382,
+      "approx_95ci_low": 0.4605972813976618,
+      "bias": 0.00390625,
+      "correlation": 0.0078125,
+      "feedforward": false,
+      "input_difference": "w15.b28",
+      "input_difference_bits": [
+        [
+          15,
+          28
+        ]
+      ],
+      "matches": 258,
+      "output_mask": "w01.b00",
+      "output_mask_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.50390625,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096412552213365
+    },
+    {
+      "abs_correlation": 0.00390625,
+      "approx_95ci_high": 0.5452630849151232,
+      "approx_95ci_low": 0.4586431650848768,
+      "bias": 0.001953125,
+      "correlation": 0.00390625,
+      "feedforward": false,
+      "input_difference": "w00.b00+w01.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 257,
+      "output_mask": "w12.b23",
+      "output_mask_bits": [
+        [
+          12,
+          23
+        ]
+      ],
+      "probability": 0.501953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096918324042453
+    },
+    {
+      "abs_correlation": 0.00390625,
+      "approx_95ci_high": 0.5452630849151232,
+      "approx_95ci_low": 0.4586431650848768,
+      "bias": 0.001953125,
+      "correlation": 0.00390625,
+      "feedforward": false,
+      "input_difference": "w00.b07+w04.b07",
+      "input_difference_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "matches": 257,
+      "output_mask": "w00.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ]
+      ],
+      "probability": 0.501953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096918324042453
+    },
+    {
+      "abs_correlation": 0.00390625,
+      "approx_95ci_high": 0.5413568349151232,
+      "approx_95ci_low": 0.4547369150848768,
+      "bias": -0.001953125,
+      "correlation": -0.00390625,
+      "feedforward": false,
+      "input_difference": "w00.b07+w04.b07",
+      "input_difference_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "matches": 255,
+      "output_mask": "w01.b00",
+      "output_mask_bits": [
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.498046875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096918324042453
+    },
+    {
+      "abs_correlation": 0.00390625,
+      "approx_95ci_high": 0.5452630849151232,
+      "approx_95ci_low": 0.4586431650848768,
+      "bias": 0.001953125,
+      "correlation": 0.00390625,
+      "feedforward": false,
+      "input_difference": "w00.b07+w04.b07",
+      "input_difference_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "matches": 257,
+      "output_mask": "w08.b13+w12.b13",
+      "output_mask_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "probability": 0.501953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096918324042453
+    },
+    {
+      "abs_correlation": 0.00390625,
+      "approx_95ci_high": 0.5413568349151232,
+      "approx_95ci_low": 0.4547369150848768,
+      "bias": -0.001953125,
+      "correlation": -0.00390625,
+      "feedforward": false,
+      "input_difference": "w00.b07+w04.b07",
+      "input_difference_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "matches": 255,
+      "output_mask": "w12.b04",
+      "output_mask_bits": [
+        [
+          12,
+          4
+        ]
+      ],
+      "probability": 0.498046875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096918324042453
+    },
+    {
+      "abs_correlation": 0.00390625,
+      "approx_95ci_high": 0.5413568349151232,
+      "approx_95ci_low": 0.4547369150848768,
+      "bias": -0.001953125,
+      "correlation": -0.00390625,
+      "feedforward": false,
+      "input_difference": "w00.b07+w04.b07",
+      "input_difference_bits": [
+        [
+          0,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "matches": 255,
+      "output_mask": "w13.b19",
+      "output_mask_bits": [
+        [
+          13,
+          19
+        ]
+      ],
+      "probability": 0.498046875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096918324042453
+    },
+    {
+      "abs_correlation": 0.00390625,
+      "approx_95ci_high": 0.5413568349151232,
+      "approx_95ci_low": 0.4547369150848768,
+      "bias": -0.001953125,
+      "correlation": -0.00390625,
+      "feedforward": false,
+      "input_difference": "w04.b00",
+      "input_difference_bits": [
+        [
+          4,
+          0
+        ]
+      ],
+      "matches": 255,
+      "output_mask": "w00.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ]
+      ],
+      "probability": 0.498046875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096918324042453
+    },
+    {
+      "abs_correlation": 0.00390625,
+      "approx_95ci_high": 0.5452630849151232,
+      "approx_95ci_low": 0.4586431650848768,
+      "bias": 0.001953125,
+      "correlation": 0.00390625,
+      "feedforward": false,
+      "input_difference": "w05.b07",
+      "input_difference_bits": [
+        [
+          5,
+          7
+        ]
+      ],
+      "matches": 257,
+      "output_mask": "w08.b13+w12.b13",
+      "output_mask_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "probability": 0.501953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096918324042453
+    },
+    {
+      "abs_correlation": 0.00390625,
+      "approx_95ci_high": 0.5413568349151232,
+      "approx_95ci_low": 0.4547369150848768,
+      "bias": -0.001953125,
+      "correlation": -0.00390625,
+      "feedforward": false,
+      "input_difference": "w05.b07",
+      "input_difference_bits": [
+        [
+          5,
+          7
+        ]
+      ],
+      "matches": 255,
+      "output_mask": "w10.b13",
+      "output_mask_bits": [
+        [
+          10,
+          13
+        ]
+      ],
+      "probability": 0.498046875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096918324042453
+    },
+    {
+      "abs_correlation": 0.00390625,
+      "approx_95ci_high": 0.5452630849151232,
+      "approx_95ci_low": 0.4586431650848768,
+      "bias": 0.001953125,
+      "correlation": 0.00390625,
+      "feedforward": false,
+      "input_difference": "w06.b24",
+      "input_difference_bits": [
+        [
+          6,
+          24
+        ]
+      ],
+      "matches": 257,
+      "output_mask": "w12.b23",
+      "output_mask_bits": [
+        [
+          12,
+          23
+        ]
+      ],
+      "probability": 0.501953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096918324042453
+    },
+    {
+      "abs_correlation": 0.00390625,
+      "approx_95ci_high": 0.5452630849151232,
+      "approx_95ci_low": 0.4586431650848768,
+      "bias": 0.001953125,
+      "correlation": 0.00390625,
+      "feedforward": false,
+      "input_difference": "w06.b24",
+      "input_difference_bits": [
+        [
+          6,
+          24
+        ]
+      ],
+      "matches": 257,
+      "output_mask": "w13.b19",
+      "output_mask_bits": [
+        [
+          13,
+          19
+        ]
+      ],
+      "probability": 0.501953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096918324042453
+    },
+    {
+      "abs_correlation": 0.00390625,
+      "approx_95ci_high": 0.5452630849151232,
+      "approx_95ci_low": 0.4586431650848768,
+      "bias": 0.001953125,
+      "correlation": 0.00390625,
+      "feedforward": false,
+      "input_difference": "w08.b09",
+      "input_difference_bits": [
+        [
+          8,
+          9
+        ]
+      ],
+      "matches": 257,
+      "output_mask": "w00.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "probability": 0.501953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096918324042453
+    },
+    {
+      "abs_correlation": 0.00390625,
+      "approx_95ci_high": 0.5413568349151232,
+      "approx_95ci_low": 0.4547369150848768,
+      "bias": -0.001953125,
+      "correlation": -0.00390625,
+      "feedforward": false,
+      "input_difference": "w08.b13+w12.b13",
+      "input_difference_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 255,
+      "output_mask": "w13.b19",
+      "output_mask_bits": [
+        [
+          13,
+          19
+        ]
+      ],
+      "probability": 0.498046875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096918324042453
+    },
+    {
+      "abs_correlation": 0.00390625,
+      "approx_95ci_high": 0.5413568349151232,
+      "approx_95ci_low": 0.4547369150848768,
+      "bias": -0.001953125,
+      "correlation": -0.00390625,
+      "feedforward": false,
+      "input_difference": "w09.b03",
+      "input_difference_bits": [
+        [
+          9,
+          3
+        ]
+      ],
+      "matches": 255,
+      "output_mask": "w00.b07",
+      "output_mask_bits": [
+        [
+          0,
+          7
+        ]
+      ],
+      "probability": 0.498046875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096918324042453
+    },
+    {
+      "abs_correlation": 0.00390625,
+      "approx_95ci_high": 0.5452630849151232,
+      "approx_95ci_low": 0.4586431650848768,
+      "bias": 0.001953125,
+      "correlation": 0.00390625,
+      "feedforward": false,
+      "input_difference": "w09.b03",
+      "input_difference_bits": [
+        [
+          9,
+          3
+        ]
+      ],
+      "matches": 257,
+      "output_mask": "w07.b23",
+      "output_mask_bits": [
+        [
+          7,
+          23
+        ]
+      ],
+      "probability": 0.501953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096918324042453
+    },
+    {
+      "abs_correlation": 0.00390625,
+      "approx_95ci_high": 0.5413568349151232,
+      "approx_95ci_low": 0.4547369150848768,
+      "bias": -0.001953125,
+      "correlation": -0.00390625,
+      "feedforward": false,
+      "input_difference": "w09.b03",
+      "input_difference_bits": [
+        [
+          9,
+          3
+        ]
+      ],
+      "matches": 255,
+      "output_mask": "w12.b04",
+      "output_mask_bits": [
+        [
+          12,
+          4
+        ]
+      ],
+      "probability": 0.498046875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096918324042453
+    },
+    {
+      "abs_correlation": 0.00390625,
+      "approx_95ci_high": 0.5413568349151232,
+      "approx_95ci_low": 0.4547369150848768,
+      "bias": -0.001953125,
+      "correlation": -0.00390625,
+      "feedforward": false,
+      "input_difference": "w09.b28",
+      "input_difference_bits": [
+        [
+          9,
+          28
+        ]
+      ],
+      "matches": 255,
+      "output_mask": "w05.b09",
+      "output_mask_bits": [
+        [
+          5,
+          9
+        ]
+      ],
+      "probability": 0.498046875,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096918324042453
+    },
+    {
+      "abs_correlation": 0.00390625,
+      "approx_95ci_high": 0.5452630849151232,
+      "approx_95ci_low": 0.4586431650848768,
+      "bias": 0.001953125,
+      "correlation": 0.00390625,
+      "feedforward": false,
+      "input_difference": "w12.b13",
+      "input_difference_bits": [
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 257,
+      "output_mask": "w15.b18",
+      "output_mask_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "probability": 0.501953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096918324042453
+    },
+    {
+      "abs_correlation": 0.00390625,
+      "approx_95ci_high": 0.5452630849151232,
+      "approx_95ci_low": 0.4586431650848768,
+      "bias": 0.001953125,
+      "correlation": 0.00390625,
+      "feedforward": false,
+      "input_difference": "w15.b18",
+      "input_difference_bits": [
+        [
+          15,
+          18
+        ]
+      ],
+      "matches": 257,
+      "output_mask": "w12.b04",
+      "output_mask_bits": [
+        [
+          12,
+          4
+        ]
+      ],
+      "probability": 0.501953125,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.022096918324042453
+    },
+    {
+      "abs_correlation": 0.0,
+      "approx_95ci_high": 0.5433102903476761,
+      "approx_95ci_low": 0.45668970965232397,
+      "bias": 0.0,
+      "correlation": 0.0,
+      "feedforward": false,
+      "input_difference": "w00.b00+w01.b00",
+      "input_difference_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "matches": 256,
+      "output_mask": "w00.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ]
+      ],
+      "probability": 0.5,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209708691207961
+    },
+    {
+      "abs_correlation": 0.0,
+      "approx_95ci_high": 0.5433102903476761,
+      "approx_95ci_low": 0.45668970965232397,
+      "bias": 0.0,
+      "correlation": 0.0,
+      "feedforward": false,
+      "input_difference": "w01.b25",
+      "input_difference_bits": [
+        [
+          1,
+          25
+        ]
+      ],
+      "matches": 256,
+      "output_mask": "w03.b29",
+      "output_mask_bits": [
+        [
+          3,
+          29
+        ]
+      ],
+      "probability": 0.5,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209708691207961
+    },
+    {
+      "abs_correlation": 0.0,
+      "approx_95ci_high": 0.5433102903476761,
+      "approx_95ci_low": 0.45668970965232397,
+      "bias": 0.0,
+      "correlation": 0.0,
+      "feedforward": false,
+      "input_difference": "w04.b00",
+      "input_difference_bits": [
+        [
+          4,
+          0
+        ]
+      ],
+      "matches": 256,
+      "output_mask": "w03.b29",
+      "output_mask_bits": [
+        [
+          3,
+          29
+        ]
+      ],
+      "probability": 0.5,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209708691207961
+    },
+    {
+      "abs_correlation": 0.0,
+      "approx_95ci_high": 0.5433102903476761,
+      "approx_95ci_low": 0.45668970965232397,
+      "bias": 0.0,
+      "correlation": 0.0,
+      "feedforward": false,
+      "input_difference": "w04.b00",
+      "input_difference_bits": [
+        [
+          4,
+          0
+        ]
+      ],
+      "matches": 256,
+      "output_mask": "w12.b23",
+      "output_mask_bits": [
+        [
+          12,
+          23
+        ]
+      ],
+      "probability": 0.5,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209708691207961
+    },
+    {
+      "abs_correlation": 0.0,
+      "approx_95ci_high": 0.5433102903476761,
+      "approx_95ci_low": 0.45668970965232397,
+      "bias": 0.0,
+      "correlation": 0.0,
+      "feedforward": false,
+      "input_difference": "w04.b00",
+      "input_difference_bits": [
+        [
+          4,
+          0
+        ]
+      ],
+      "matches": 256,
+      "output_mask": "w13.b19",
+      "output_mask_bits": [
+        [
+          13,
+          19
+        ]
+      ],
+      "probability": 0.5,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209708691207961
+    },
+    {
+      "abs_correlation": 0.0,
+      "approx_95ci_high": 0.5433102903476761,
+      "approx_95ci_low": 0.45668970965232397,
+      "bias": 0.0,
+      "correlation": 0.0,
+      "feedforward": false,
+      "input_difference": "w05.b00+w10.b00",
+      "input_difference_bits": [
+        [
+          5,
+          0
+        ],
+        [
+          10,
+          0
+        ]
+      ],
+      "matches": 256,
+      "output_mask": "w12.b04",
+      "output_mask_bits": [
+        [
+          12,
+          4
+        ]
+      ],
+      "probability": 0.5,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209708691207961
+    },
+    {
+      "abs_correlation": 0.0,
+      "approx_95ci_high": 0.5433102903476761,
+      "approx_95ci_low": 0.45668970965232397,
+      "bias": 0.0,
+      "correlation": 0.0,
+      "feedforward": false,
+      "input_difference": "w05.b07",
+      "input_difference_bits": [
+        [
+          5,
+          7
+        ]
+      ],
+      "matches": 256,
+      "output_mask": "w00.b00+w01.b00",
+      "output_mask_bits": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "probability": 0.5,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209708691207961
+    },
+    {
+      "abs_correlation": 0.0,
+      "approx_95ci_high": 0.5433102903476761,
+      "approx_95ci_low": 0.45668970965232397,
+      "bias": 0.0,
+      "correlation": 0.0,
+      "feedforward": false,
+      "input_difference": "w05.b07",
+      "input_difference_bits": [
+        [
+          5,
+          7
+        ]
+      ],
+      "matches": 256,
+      "output_mask": "w03.b29",
+      "output_mask_bits": [
+        [
+          3,
+          29
+        ]
+      ],
+      "probability": 0.5,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209708691207961
+    },
+    {
+      "abs_correlation": 0.0,
+      "approx_95ci_high": 0.5433102903476761,
+      "approx_95ci_low": 0.45668970965232397,
+      "bias": 0.0,
+      "correlation": 0.0,
+      "feedforward": false,
+      "input_difference": "w05.b07",
+      "input_difference_bits": [
+        [
+          5,
+          7
+        ]
+      ],
+      "matches": 256,
+      "output_mask": "w07.b23",
+      "output_mask_bits": [
+        [
+          7,
+          23
+        ]
+      ],
+      "probability": 0.5,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209708691207961
+    },
+    {
+      "abs_correlation": 0.0,
+      "approx_95ci_high": 0.5433102903476761,
+      "approx_95ci_low": 0.45668970965232397,
+      "bias": 0.0,
+      "correlation": 0.0,
+      "feedforward": false,
+      "input_difference": "w08.b13+w12.b13",
+      "input_difference_bits": [
+        [
+          8,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "matches": 256,
+      "output_mask": "w12.b04",
+      "output_mask_bits": [
+        [
+          12,
+          4
+        ]
+      ],
+      "probability": 0.5,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209708691207961
+    },
+    {
+      "abs_correlation": 0.0,
+      "approx_95ci_high": 0.5433102903476761,
+      "approx_95ci_low": 0.45668970965232397,
+      "bias": 0.0,
+      "correlation": 0.0,
+      "feedforward": false,
+      "input_difference": "w09.b28",
+      "input_difference_bits": [
+        [
+          9,
+          28
+        ]
+      ],
+      "matches": 256,
+      "output_mask": "w03.b29",
+      "output_mask_bits": [
+        [
+          3,
+          29
+        ]
+      ],
+      "probability": 0.5,
+      "rounds": 4,
+      "samples": 512,
+      "seed": 20260617,
+      "standard_error": 0.02209708691207961
+    }
+  ]
+}
