@@ -1,4 +1,4 @@
-"""Run the 4-round Salsa20 reduced-subkey ranking experiment."""
+"""Run 4-round Salsa20 differential-linear search and verification."""
 
 from __future__ import annotations
 
@@ -9,7 +9,7 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 
-from src.key_recovery import main
+from src.differential_linear_distinguisher import main
 
 
 if __name__ == "__main__":

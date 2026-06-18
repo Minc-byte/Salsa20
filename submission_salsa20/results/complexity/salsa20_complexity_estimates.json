@@ -1,0 +1,33 @@
+{
+  "delta": "w08.b26",
+  "distinguisher_correlation": -0.59149169921875,
+  "distinguisher_estimated_data_complexity_pairs": 2.858266317136788,
+  "distinguisher_estimated_data_complexity_pairs_ceiling": 3,
+  "distinguisher_runtime_correlation": -0.5712890625,
+  "distinguisher_runtime_probability": 0.21435546875,
+  "distinguisher_runtime_samples": 4096,
+  "distinguisher_verification_samples_used": 65536,
+  "distinguisher_wall_clock_seconds": 0.41206755100029113,
+  "experiment": "4-round Salsa20 complexity estimates",
+  "feedforward": false,
+  "gamma": "w06.b00+w07.b09",
+  "key_recovery_best_candidate": 253,
+  "key_recovery_best_candidate_hex": "0xfd",
+  "key_recovery_candidates": 256,
+  "key_recovery_correct_rank": 1,
+  "key_recovery_reduced_key_bits": 8,
+  "key_recovery_samples_per_candidate": 64,
+  "key_recovery_secret_subkey": 253,
+  "key_recovery_secret_subkey_hex": "0xfd",
+  "key_recovery_top_score": 64,
+  "key_recovery_top_score_correlation": 1.0,
+  "key_recovery_total_scoring_operations": 16384,
+  "key_recovery_wall_clock_seconds": 1.6752131650000592,
+  "limitations": [
+    "Data complexity uses the rough N ~= c^-2 distinguisher heuristic.",
+    "Runtime measurements are wall-clock measurements on this local Python implementation.",
+    "Key recovery is reduced-subkey candidate ranking only.",
+    "No full 256-bit Salsa20 key recovery is claimed."
+  ],
+  "rounds": 4
+}

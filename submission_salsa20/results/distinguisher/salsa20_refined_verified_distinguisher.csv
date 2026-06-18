@@ -1,0 +1,2 @@
+rank,input_difference,output_mask,samples,matches,probability,bias,correlation,abs_correlation,standard_error,approx_95ci_low,approx_95ci_high,seed,rounds,feedforward
+1,w08.b26,w06.b00+w07.b09,65536,13386,0.204254150390625,-0.295745849609375,-0.59149169921875,0.59149169921875,0.0015748263426885155,0.20116749075895551,0.20734081002229449,20260618,4,False

@@ -1,0 +1,36 @@
+{
+  "results": [
+    {
+      "abs_correlation": 0.59149169921875,
+      "approx_95ci_high": 0.20734081002229449,
+      "approx_95ci_low": 0.20116749075895551,
+      "bias": -0.295745849609375,
+      "correlation": -0.59149169921875,
+      "feedforward": false,
+      "input_difference": "w08.b26",
+      "input_difference_bits": [
+        [
+          8,
+          26
+        ]
+      ],
+      "matches": 13386,
+      "output_mask": "w06.b00+w07.b09",
+      "output_mask_bits": [
+        [
+          6,
+          0
+        ],
+        [
+          7,
+          9
+        ]
+      ],
+      "probability": 0.204254150390625,
+      "rounds": 4,
+      "samples": 65536,
+      "seed": 20260618,
+      "standard_error": 0.0015748263426885155
+    }
+  ]
+}

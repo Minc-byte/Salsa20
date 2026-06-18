@@ -1,0 +1,172 @@
+{
+  "best_candidate": 253,
+  "best_candidate_hex": "0xfd",
+  "candidate_count": 256,
+  "correct_agreement_probability": 1.0,
+  "correct_rank": 1,
+  "correct_score": 64,
+  "delta": "w08.b26",
+  "experiment": "4-round Salsa20 reduced-subkey candidate ranking",
+  "feedforward": false,
+  "gamma": "w06.b00+w07.b09",
+  "limitations": [
+    "Reduced-subkey candidate ranking only.",
+    "Does not claim full 256-bit Salsa20 key recovery.",
+    "Uses the 4-round Salsa20 core without feed-forward."
+  ],
+  "reduced_key_bits": 8,
+  "rounds": 4,
+  "samples": 64,
+  "secret_subkey": 253,
+  "secret_subkey_hex": "0xfd",
+  "seed": 20260619,
+  "subkey_positions": [
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      1,
+      7
+    ]
+  ],
+  "top_agreement_probability": 1.0,
+  "top_candidates": [
+    {
+      "abs_score_correlation": 1.0,
+      "agreement_probability": 1.0,
+      "agreements": 64,
+      "candidate": 253,
+      "candidate_hex": "0xfd",
+      "is_correct": true,
+      "rank": 1,
+      "samples": 64,
+      "score_correlation": 1.0
+    },
+    {
+      "abs_score_correlation": 0.6875,
+      "agreement_probability": 0.84375,
+      "agreements": 54,
+      "candidate": 105,
+      "candidate_hex": "0x69",
+      "is_correct": false,
+      "rank": 2,
+      "samples": 64,
+      "score_correlation": 0.6875
+    },
+    {
+      "abs_score_correlation": 0.65625,
+      "agreement_probability": 0.828125,
+      "agreements": 53,
+      "candidate": 119,
+      "candidate_hex": "0x77",
+      "is_correct": false,
+      "rank": 3,
+      "samples": 64,
+      "score_correlation": 0.65625
+    },
+    {
+      "abs_score_correlation": 0.625,
+      "agreement_probability": 0.8125,
+      "agreements": 52,
+      "candidate": 178,
+      "candidate_hex": "0xb2",
+      "is_correct": false,
+      "rank": 4,
+      "samples": 64,
+      "score_correlation": 0.625
+    },
+    {
+      "abs_score_correlation": 0.59375,
+      "agreement_probability": 0.796875,
+      "agreements": 51,
+      "candidate": 21,
+      "candidate_hex": "0x15",
+      "is_correct": false,
+      "rank": 5,
+      "samples": 64,
+      "score_correlation": 0.59375
+    },
+    {
+      "abs_score_correlation": 0.59375,
+      "agreement_probability": 0.796875,
+      "agreements": 51,
+      "candidate": 122,
+      "candidate_hex": "0x7a",
+      "is_correct": false,
+      "rank": 6,
+      "samples": 64,
+      "score_correlation": 0.59375
+    },
+    {
+      "abs_score_correlation": 0.59375,
+      "agreement_probability": 0.796875,
+      "agreements": 51,
+      "candidate": 190,
+      "candidate_hex": "0xbe",
+      "is_correct": false,
+      "rank": 7,
+      "samples": 64,
+      "score_correlation": 0.59375
+    },
+    {
+      "abs_score_correlation": 0.59375,
+      "agreement_probability": 0.796875,
+      "agreements": 51,
+      "candidate": 243,
+      "candidate_hex": "0xf3",
+      "is_correct": false,
+      "rank": 8,
+      "samples": 64,
+      "score_correlation": 0.59375
+    },
+    {
+      "abs_score_correlation": 0.5625,
+      "agreement_probability": 0.78125,
+      "agreements": 50,
+      "candidate": 0,
+      "candidate_hex": "0x00",
+      "is_correct": false,
+      "rank": 9,
+      "samples": 64,
+      "score_correlation": 0.5625
+    },
+    {
+      "abs_score_correlation": 0.5625,
+      "agreement_probability": 0.78125,
+      "agreements": 50,
+      "candidate": 85,
+      "candidate_hex": "0x55",
+      "is_correct": false,
+      "rank": 10,
+      "samples": 64,
+      "score_correlation": 0.5625
+    }
+  ],
+  "top_score": 64,
+  "top_score_correlation": 1.0
+}
